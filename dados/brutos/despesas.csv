@@ -1,0 +1,97 @@
+﻿id_despesa,competencia,categoria,descricao,valor,status
+DESP00001,2026-01-01,Folha de pagamento,Folha de pagamento - 01/2026,473299.64,Pago
+DESP00002,2026-01-01,Fornecedores,Fornecedores - 01/2026,80321.48,Em aberto
+DESP00003,2026-01-01,Infraestrutura,Infraestrutura - 01/2026,52392.14,Pago
+DESP00004,2026-01-01,Tecnologia,Tecnologia - 01/2026,21409.88,Pago
+DESP00005,2026-01-01,Material didático,Material didático - 01/2026,22689.22,Pago
+DESP00006,2026-01-01,Manutenção,Manutenção - 01/2026,11303.45,Pago
+DESP00007,2026-01-01,Marketing,Marketing - 01/2026,26091.91,Pago
+DESP00008,2026-01-01,Administrativo,Administrativo - 01/2026,23202.21,Pago
+DESP00009,2026-02-01,Folha de pagamento,Folha de pagamento - 02/2026,451804.73,Em aberto
+DESP00010,2026-02-01,Fornecedores,Fornecedores - 02/2026,117840.75,Pago
+DESP00011,2026-02-01,Infraestrutura,Infraestrutura - 02/2026,52663.63,Pago
+DESP00012,2026-02-01,Tecnologia,Tecnologia - 02/2026,26875.79,Pago
+DESP00013,2026-02-01,Material didático,Material didático - 02/2026,11768.88,Pago
+DESP00014,2026-02-01,Manutenção,Manutenção - 02/2026,34391.02,Em aberto
+DESP00015,2026-02-01,Marketing,Marketing - 02/2026,32624.21,Em aberto
+DESP00016,2026-02-01,Administrativo,Administrativo - 02/2026,29025.38,Pago
+DESP00017,2026-03-01,Folha de pagamento,Folha de pagamento - 03/2026,475278.26,Pago
+DESP00018,2026-03-01,Fornecedores,Fornecedores - 03/2026,91561.32,Pago
+DESP00019,2026-03-01,Infraestrutura,Infraestrutura - 03/2026,44930.91,Pago
+DESP00020,2026-03-01,Tecnologia,Tecnologia - 03/2026,22868.41,Pago
+DESP00021,2026-03-01,Material didático,Material didático - 03/2026,18711.26,Em aberto
+DESP00022,2026-03-01,Manutenção,Manutenção - 03/2026,25561.69,Em aberto
+DESP00023,2026-03-01,Marketing,Marketing - 03/2026,22019.91,Pago
+DESP00024,2026-03-01,Administrativo,Administrativo - 03/2026,20803.98,Pago
+DESP00025,2026-04-01,Folha de pagamento,Folha de pagamento - 04/2026,488282.9,Pago
+DESP00026,2026-04-01,Fornecedores,Fornecedores - 04/2026,80751.02,Em aberto
+DESP00027,2026-04-01,Infraestrutura,Infraestrutura - 04/2026,68249.72,Pago
+DESP00028,2026-04-01,Tecnologia,Tecnologia - 04/2026,19014.71,Pago
+DESP00029,2026-04-01,Material didático,Material didático - 04/2026,26920.11,Pago
+DESP00030,2026-04-01,Manutenção,Manutenção - 04/2026,22140.3,Pago
+DESP00031,2026-04-01,Marketing,Marketing - 04/2026,25656.72,Pago
+DESP00032,2026-04-01,Administrativo,Administrativo - 04/2026,25168.51,Em aberto
+DESP00033,2026-05-01,Folha de pagamento,Folha de pagamento - 05/2026,496583.71,Pago
+DESP00034,2026-05-01,Fornecedores,Fornecedores - 05/2026,93042.21,Em aberto
+DESP00035,2026-05-01,Infraestrutura,Infraestrutura - 05/2026,68947.71,Em aberto
+DESP00036,2026-05-01,Tecnologia,Tecnologia - 05/2026,21888.69,Pago
+DESP00037,2026-05-01,Material didático,Material didático - 05/2026,33169.72,Pago
+DESP00038,2026-05-01,Manutenção,Manutenção - 05/2026,26903.52,Em aberto
+DESP00039,2026-05-01,Marketing,Marketing - 05/2026,32855.86,Pago
+DESP00040,2026-05-01,Administrativo,Administrativo - 05/2026,22739.55,Pago
+DESP00041,2026-06-01,Folha de pagamento,Folha de pagamento - 06/2026,462442.27,Pago
+DESP00042,2026-06-01,Fornecedores,Fornecedores - 06/2026,100184.96,Pago
+DESP00043,2026-06-01,Infraestrutura,Infraestrutura - 06/2026,46704.93,Em aberto
+DESP00044,2026-06-01,Tecnologia,Tecnologia - 06/2026,29459.4,Pago
+DESP00045,2026-06-01,Material didático,Material didático - 06/2026,29949.2,Em aberto
+DESP00046,2026-06-01,Manutenção,Manutenção - 06/2026,15033.09,Em aberto
+DESP00047,2026-06-01,Marketing,Marketing - 06/2026,34880.96,Em aberto
+DESP00048,2026-06-01,Administrativo,Administrativo - 06/2026,32036.98,Pago
+DESP00049,2026-07-01,Folha de pagamento,Folha de pagamento - 07/2026,479034.26,Pago
+DESP00050,2026-07-01,Fornecedores,Fornecedores - 07/2026,80375.93,Pago
+DESP00051,2026-07-01,Infraestrutura,Infraestrutura - 07/2026,46834.52,Pago
+DESP00052,2026-07-01,Tecnologia,Tecnologia - 07/2026,27999.84,Em aberto
+DESP00053,2026-07-01,Material didático,Material didático - 07/2026,33793.07,Pago
+DESP00054,2026-07-01,Manutenção,Manutenção - 07/2026,10433.11,Pago
+DESP00055,2026-07-01,Marketing,Marketing - 07/2026,32576.26,Pago
+DESP00056,2026-07-01,Administrativo,Administrativo - 07/2026,12523.2,Pago
+DESP00057,2026-08-01,Folha de pagamento,Folha de pagamento - 08/2026,481796.1,Pago
+DESP00058,2026-08-01,Fornecedores,Fornecedores - 08/2026,88932.56,Pago
+DESP00059,2026-08-01,Infraestrutura,Infraestrutura - 08/2026,63182.1,Em aberto
+DESP00060,2026-08-01,Tecnologia,Tecnologia - 08/2026,23294.9,Pago
+DESP00061,2026-08-01,Material didático,Material didático - 08/2026,14859.0,Pago
+DESP00062,2026-08-01,Manutenção,Manutenção - 08/2026,25275.16,Pago
+DESP00063,2026-08-01,Marketing,Marketing - 08/2026,32752.71,Pago
+DESP00064,2026-08-01,Administrativo,Administrativo - 08/2026,15669.49,Pago
+DESP00065,2026-09-01,Folha de pagamento,Folha de pagamento - 09/2026,494852.95,Em aberto
+DESP00066,2026-09-01,Fornecedores,Fornecedores - 09/2026,107138.01,Em aberto
+DESP00067,2026-09-01,Infraestrutura,Infraestrutura - 09/2026,57010.09,Em aberto
+DESP00068,2026-09-01,Tecnologia,Tecnologia - 09/2026,20506.0,Em aberto
+DESP00069,2026-09-01,Material didático,Material didático - 09/2026,24601.61,Em aberto
+DESP00070,2026-09-01,Manutenção,Manutenção - 09/2026,24666.63,Pago
+DESP00071,2026-09-01,Marketing,Marketing - 09/2026,26095.31,Pago
+DESP00072,2026-09-01,Administrativo,Administrativo - 09/2026,14864.49,Pago
+DESP00073,2026-10-01,Folha de pagamento,Folha de pagamento - 10/2026,491551.98,Pago
+DESP00074,2026-10-01,Fornecedores,Fornecedores - 10/2026,114369.18,Pago
+DESP00075,2026-10-01,Infraestrutura,Infraestrutura - 10/2026,66065.39,Em aberto
+DESP00076,2026-10-01,Tecnologia,Tecnologia - 10/2026,29576.68,Pago
+DESP00077,2026-10-01,Material didático,Material didático - 10/2026,28650.29,Pago
+DESP00078,2026-10-01,Manutenção,Manutenção - 10/2026,21339.85,Pago
+DESP00079,2026-10-01,Marketing,Marketing - 10/2026,24028.39,Pago
+DESP00080,2026-10-01,Administrativo,Administrativo - 10/2026,12936.41,Em aberto
+DESP00081,2026-11-01,Folha de pagamento,Folha de pagamento - 11/2026,489860.99,Em aberto
+DESP00082,2026-11-01,Fornecedores,Fornecedores - 11/2026,113161.6,Em aberto
+DESP00083,2026-11-01,Infraestrutura,Infraestrutura - 11/2026,53287.11,Pago
+DESP00084,2026-11-01,Tecnologia,Tecnologia - 11/2026,18919.29,Em aberto
+DESP00085,2026-11-01,Material didático,Material didático - 11/2026,12339.9,Em aberto
+DESP00086,2026-11-01,Manutenção,Manutenção - 11/2026,12436.12,Em aberto
+DESP00087,2026-11-01,Marketing,Marketing - 11/2026,19471.79,Pago
+DESP00088,2026-11-01,Administrativo,Administrativo - 11/2026,32305.52,Pago
+DESP00089,2026-12-01,Folha de pagamento,Folha de pagamento - 12/2026,482633.2,Pago
+DESP00090,2026-12-01,Fornecedores,Fornecedores - 12/2026,82049.24,Pago
+DESP00091,2026-12-01,Infraestrutura,Infraestrutura - 12/2026,45936.01,Em aberto
+DESP00092,2026-12-01,Tecnologia,Tecnologia - 12/2026,19850.79,Pago
+DESP00093,2026-12-01,Material didático,Material didático - 12/2026,11803.84,Pago
+DESP00094,2026-12-01,Manutenção,Manutenção - 12/2026,12473.8,Pago
+DESP00095,2026-12-01,Marketing,Marketing - 12/2026,25820.59,Pago
+DESP00096,2026-12-01,Administrativo,Administrativo - 12/2026,17074.71,Pago

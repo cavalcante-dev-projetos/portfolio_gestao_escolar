@@ -1,0 +1,1132 @@
+﻿id_aluno,nome,cpf,data_nascimento,sexo,id_turma,codigo_segmento,segmento,serie,turno,status,ano_letivo
+ALU00001,Helena Barbosa Gomes,000.001.007-00,2021-03-29,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00002,Valentina Souza Dias,000.002.014-00,2021-07-13,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00003,Valentina Barbosa Mendes,000.003.021-00,2020-01-21,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00004,Miguel Mendes Pereira,000.004.028-00,2022-12-21,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00005,Valentina Santos Nascimento,000.005.035-00,2021-07-20,F,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00006,Ana Pereira Santos,000.006.042-00,2021-07-19,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00007,Fernanda Silva Souza,000.007.049-00,2021-07-03,F,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00008,Carlos Lima Gomes,000.008.056-00,2022-09-10,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00009,Mariana Fernandes Pereira,000.009.063-00,2020-04-09,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00010,Ana Silva Carvalho,000.010.070-00,2022-03-02,F,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00011,Julia Costa Ramos,000.011.077-00,2020-06-28,F,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00012,Larissa Lima Moreira,000.012.084-00,2021-01-03,F,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00013,Bruno Moreira Dias,000.013.091-00,2021-11-19,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00014,Carlos Costa Gomes,000.014.098-00,2020-09-07,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00015,Sofia Fernandes Costa,000.015.105-00,2022-06-28,F,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00016,Camila Ramos Ramos,000.016.112-00,2022-10-10,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00017,Camila Carvalho Almeida,000.017.119-00,2020-08-27,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00018,Bruno Ramos Rocha,000.018.126-00,2022-08-19,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00019,João Costa Barbosa,000.019.133-00,2021-04-04,M,TURMA001,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00020,Gabriel Silva Santos,000.020.140-00,2022-08-07,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00021,João Fernandes Almeida,000.021.147-00,2022-11-06,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00022,Gabriel Pereira Costa,000.022.154-00,2020-04-27,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00023,Bruno Pereira Carvalho,000.023.161-00,2020-11-14,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00024,Isabela Pereira Souza,000.024.168-00,2021-05-01,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00025,Mateus Pereira Martins,000.025.175-00,2022-10-13,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00026,Mateus Ramos Mendes,000.026.182-00,2021-05-15,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00027,Vinicius Souza Ramos,000.027.189-00,2022-07-04,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00028,Gabriel Mendes Costa,000.028.196-00,2020-05-08,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00029,Eduardo Moreira Moreira,000.029.203-00,2020-11-24,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00030,Valentina Moreira Oliveira,000.030.210-00,2020-08-07,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00031,Sofia Oliveira Costa,000.031.217-00,2021-08-10,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00032,Rafael Moreira Souza,000.032.224-00,2021-07-04,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00033,João Oliveira Nascimento,000.033.231-00,2021-09-04,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00034,João Pereira Ramos,000.034.238-00,2022-11-06,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00035,Vinicius Mendes Silva,000.035.245-00,2020-01-30,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00036,Isabela Pereira Martins,000.036.252-00,2021-06-04,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00037,Ana Gomes Gomes,000.037.259-00,2022-02-10,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00038,Daniel Barbosa Nascimento,000.038.266-00,2020-10-05,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00039,Carlos Silva Santos,000.039.273-00,2020-11-14,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00040,Helena Dias Costa,000.040.280-00,2021-04-29,F,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00041,Vinicius Carvalho Costa,000.041.287-00,2022-10-30,M,TURMA002,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00042,Lucas Silva Almeida,000.042.294-00,2021-07-30,M,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00043,Miguel Ramos Gomes,000.043.301-00,2022-08-02,M,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00044,Camila Martins Silva,000.044.308-00,2022-11-08,M,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00045,Vinicius Barbosa Carvalho,000.045.315-00,2021-10-22,M,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00046,Mariana Ramos Dias,000.046.322-00,2022-05-29,F,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00047,Camila Pereira Gomes,000.047.329-00,2021-08-26,F,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00048,Eduardo Moreira Fernandes,000.048.336-00,2020-06-02,F,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00049,Carlos Gomes Ramos,000.049.343-00,2021-02-10,M,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00050,Julia Carvalho Almeida,000.050.350-00,2021-10-24,F,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00051,Gabriel Silva Lima,000.051.357-00,2022-06-25,M,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00052,Bruno Mendes Silva,000.052.364-00,2020-02-28,F,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00053,Vinicius Lima Ramos,000.053.371-00,2020-06-29,F,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00054,Daniel Dias Gomes,000.054.378-00,2020-05-11,F,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00055,Julia Martins Souza,000.055.385-00,2020-08-31,M,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00056,Eduardo Gomes Fernandes,000.056.392-00,2021-09-01,F,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00057,Thiago Dias Mendes,000.057.399-00,2020-01-28,M,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00058,Fernanda Martins Rocha,000.058.406-00,2020-01-20,M,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00059,Camila Martins Ramos,000.059.413-00,2022-01-02,F,TURMA003,EI,Educação Infantil,Infantil 3,Tarde,Ativo,2026
+ALU00060,Carlos Martins Pereira,000.060.420-00,2022-09-04,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00061,Helena Mendes Dias,000.061.427-00,2020-01-27,F,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00062,Helena Pereira Carvalho,000.062.434-00,2022-12-02,F,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00063,Miguel Almeida Almeida,000.063.441-00,2021-04-15,F,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00064,Thiago Moreira Costa,000.064.448-00,2021-09-14,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00065,Valentina Moreira Silva,000.065.455-00,2020-11-13,F,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00066,Beatriz Nascimento Souza,000.066.462-00,2020-09-11,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00067,Vinicius Pereira Barbosa,000.067.469-00,2020-12-01,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00068,João Gomes Silva,000.068.476-00,2021-10-13,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00069,Julia Silva Carvalho,000.069.483-00,2020-11-29,F,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00070,Larissa Ramos Barbosa,000.070.490-00,2020-11-04,F,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00071,Mariana Dias Rocha,000.071.497-00,2021-03-04,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00072,Carlos Martins Costa,000.072.504-00,2022-08-06,F,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00073,Thiago Gomes Martins,000.073.511-00,2022-08-25,F,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00074,Carlos Barbosa Santos,000.074.518-00,2021-06-30,F,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00075,Julia Dias Gomes,000.075.525-00,2020-11-06,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00076,Daniel Mendes Pereira,000.076.532-00,2021-08-06,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00077,Miguel Pereira Gomes,000.077.539-00,2022-07-24,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00078,João Gomes Silva,000.078.546-00,2020-11-03,M,TURMA004,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00079,Isabela Lima Moreira,000.079.553-00,2020-02-17,F,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00080,Gabriel Fernandes Carvalho,000.080.560-00,2021-04-02,F,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00081,Fernanda Mendes Pereira,000.081.567-00,2021-08-22,F,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00082,Gabriel Mendes Carvalho,000.082.574-00,2020-01-26,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00083,Lucas Moreira Carvalho,000.083.581-00,2021-09-27,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00084,Isabela Pereira Carvalho,000.084.588-00,2022-12-25,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00085,Carlos Barbosa Santos,000.085.595-00,2022-05-08,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00086,Rafael Moreira Lima,000.086.602-00,2021-11-12,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00087,Ana Mendes Fernandes,000.087.609-00,2020-05-22,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00088,Gabriel Ramos Santos,000.088.616-00,2020-02-10,F,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00089,Gabriel Martins Oliveira,000.089.623-00,2022-04-03,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00090,Bruno Nascimento Oliveira,000.090.630-00,2020-12-21,F,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00091,Miguel Almeida Carvalho,000.091.637-00,2022-01-10,F,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00092,Thiago Moreira Dias,000.092.644-00,2022-01-12,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00093,Beatriz Almeida Souza,000.093.651-00,2022-08-17,F,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00094,Eduardo Dias Rocha,000.094.658-00,2022-04-24,F,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00095,João Ramos Barbosa,000.095.665-00,2022-01-20,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00096,Mateus Santos Rocha,000.096.672-00,2021-12-23,F,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00097,Larissa Oliveira Carvalho,000.097.679-00,2022-06-07,M,TURMA005,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00098,Bruno Carvalho Almeida,000.098.686-00,2022-01-16,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00099,Mateus Lima Barbosa,000.099.693-00,2022-06-07,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00100,Thiago Gomes Almeida,000.100.700-00,2022-06-09,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00101,Julia Gomes Ramos,000.101.707-00,2022-08-10,M,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00102,Carlos Moreira Nascimento,000.102.714-00,2022-10-31,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00103,Beatriz Carvalho Dias,000.103.721-00,2021-08-15,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00104,Mateus Carvalho Dias,000.104.728-00,2020-08-20,M,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00105,Ana Moreira Rocha,000.105.735-00,2020-03-31,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00106,Eduardo Santos Carvalho,000.106.742-00,2020-04-09,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00107,Mariana Barbosa Dias,000.107.749-00,2021-12-18,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00108,Mateus Pereira Costa,000.108.756-00,2021-10-14,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00109,Camila Souza Costa,000.109.763-00,2021-09-09,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00110,Valentina Oliveira Rocha,000.110.770-00,2021-06-11,M,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00111,Miguel Moreira Barbosa,000.111.777-00,2021-07-23,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00112,Isabela Costa Oliveira,000.112.784-00,2021-08-02,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00113,Isabela Souza Ramos,000.113.791-00,2022-05-12,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00114,Camila Martins Costa,000.114.798-00,2021-12-18,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00115,Julia Martins Lima,000.115.805-00,2020-07-29,M,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00116,Camila Santos Fernandes,000.116.812-00,2020-01-15,F,TURMA006,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00117,Vinicius Dias Mendes,000.117.819-00,2022-11-21,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00118,Ana Mendes Dias,000.118.826-00,2021-03-26,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00119,Lucas Almeida Nascimento,000.119.833-00,2022-07-16,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00120,Thiago Costa Silva,000.120.840-00,2020-10-30,M,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00121,Ana Mendes Costa,000.121.847-00,2021-03-04,M,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00122,Miguel Barbosa Costa,000.122.854-00,2022-04-30,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00123,Isabela Fernandes Oliveira,000.123.861-00,2020-07-07,M,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00124,Eduardo Rocha Santos,000.124.868-00,2022-08-29,M,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00125,Vinicius Barbosa Santos,000.125.875-00,2022-02-19,M,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00126,Thiago Costa Fernandes,000.126.882-00,2022-04-09,M,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00127,Julia Barbosa Ramos,000.127.889-00,2022-01-12,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00128,Camila Gomes Silva,000.128.896-00,2021-12-21,M,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00129,Sofia Moreira Gomes,000.129.903-00,2021-04-25,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00130,Mariana Mendes Oliveira,000.130.910-00,2021-06-15,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00131,Bruno Gomes Nascimento,000.131.917-00,2022-01-28,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00132,Larissa Gomes Rocha,000.132.924-00,2022-09-01,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00133,Thiago Costa Fernandes,000.133.931-00,2021-04-27,F,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00134,Thiago Nascimento Carvalho,000.134.938-00,2021-06-24,M,TURMA007,EI,Educação Infantil,Infantil 3,Manhã,Ativo,2026
+ALU00135,Miguel Pereira Silva,000.135.945-00,2022-02-24,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00136,Gabriel Gomes Costa,000.136.952-00,2021-02-10,F,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00137,Eduardo Almeida Dias,000.137.959-00,2022-06-30,F,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00138,Daniel Costa Nascimento,000.138.966-00,2022-01-02,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00139,Vinicius Costa Carvalho,000.139.973-00,2021-10-01,F,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00140,Sofia Martins Costa,000.140.980-00,2020-04-20,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00141,Carlos Souza Almeida,000.141.987-00,2020-03-11,F,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00142,Mateus Oliveira Carvalho,000.142.994-00,2022-07-12,F,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00143,Carlos Dias Fernandes,000.143.001-00,2022-04-22,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00144,Eduardo Rocha Silva,000.144.008-00,2021-09-07,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00145,Beatriz Mendes Almeida,000.145.015-00,2021-06-07,F,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00146,Helena Oliveira Santos,000.146.022-00,2020-06-17,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00147,Valentina Dias Martins,000.147.029-00,2022-08-18,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00148,Gabriel Carvalho Fernandes,000.148.036-00,2020-11-19,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00149,Helena Martins Ramos,000.149.043-00,2021-07-26,F,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00150,Gabriel Ramos Carvalho,000.150.050-00,2022-11-11,F,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00151,Julia Barbosa Nascimento,000.151.057-00,2021-01-12,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00152,Rafael Oliveira Nascimento,000.152.064-00,2021-01-07,M,TURMA008,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00153,Larissa Martins Lima,000.153.071-00,2022-04-16,M,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00154,Valentina Fernandes Oliveira,000.154.078-00,2020-09-06,M,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00155,Carlos Almeida Oliveira,000.155.085-00,2021-05-12,M,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00156,Julia Mendes Barbosa,000.156.092-00,2022-08-25,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00157,Ana Moreira Pereira,000.157.099-00,2020-05-07,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00158,Larissa Oliveira Almeida,000.158.106-00,2021-06-24,M,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00159,Mateus Souza Oliveira,000.159.113-00,2021-02-11,M,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00160,Helena Silva Barbosa,000.160.120-00,2021-10-16,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00161,Beatriz Lima Souza,000.161.127-00,2021-03-30,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00162,Beatriz Souza Silva,000.162.134-00,2021-07-30,M,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00163,Fernanda Rocha Carvalho,000.163.141-00,2022-01-05,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00164,Rafael Santos Rocha,000.164.148-00,2021-12-10,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00165,Ana Fernandes Santos,000.165.155-00,2022-03-28,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00166,Mariana Almeida Carvalho,000.166.162-00,2020-08-07,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00167,Sofia Santos Martins,000.167.169-00,2021-04-07,M,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00168,Mateus Dias Barbosa,000.168.176-00,2020-07-15,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00169,Gabriel Martins Gomes,000.169.183-00,2022-08-29,M,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00170,Gabriel Pereira Oliveira,000.170.190-00,2021-04-19,F,TURMA009,EI,Educação Infantil,Infantil 1,Tarde,Ativo,2026
+ALU00171,Carlos Pereira Rocha,000.171.197-00,2021-08-19,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00172,Bruno Mendes Carvalho,000.172.204-00,2020-07-11,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00173,Helena Mendes Ramos,000.173.211-00,2020-11-07,M,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00174,Lucas Dias Nascimento,000.174.218-00,2022-02-03,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00175,Eduardo Gomes Fernandes,000.175.225-00,2022-03-08,M,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00176,Vinicius Oliveira Santos,000.176.232-00,2021-10-31,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00177,Daniel Ramos Carvalho,000.177.239-00,2022-09-28,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00178,Carlos Fernandes Souza,000.178.246-00,2021-09-09,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00179,João Almeida Dias,000.179.253-00,2020-11-15,M,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00180,Camila Fernandes Barbosa,000.180.260-00,2021-06-01,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00181,Isabela Oliveira Moreira,000.181.267-00,2021-10-20,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00182,Mariana Costa Rocha,000.182.274-00,2020-07-27,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00183,Helena Moreira Dias,000.183.281-00,2021-01-19,M,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00184,Gabriel Moreira Almeida,000.184.288-00,2022-02-10,M,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00185,João Mendes Pereira,000.185.295-00,2022-10-22,M,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00186,João Silva Mendes,000.186.302-00,2021-01-25,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00187,Lucas Martins Santos,000.187.309-00,2021-03-02,M,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00188,Miguel Costa Almeida,000.188.316-00,2022-04-18,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00189,Bruno Nascimento Pereira,000.189.323-00,2022-05-14,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00190,Miguel Gomes Ramos,000.190.330-00,2020-02-08,M,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00191,Thiago Pereira Carvalho,000.191.337-00,2022-02-07,F,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00192,Carlos Souza Moreira,000.192.344-00,2020-05-28,M,TURMA010,EI,Educação Infantil,Infantil 2,Manhã,Ativo,2026
+ALU00193,Bruno Nascimento Costa,000.193.351-00,2021-09-08,M,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00194,Valentina Lima Dias,000.194.358-00,2022-01-27,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00195,João Mendes Souza,000.195.365-00,2020-01-22,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00196,Thiago Carvalho Silva,000.196.372-00,2020-09-17,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00197,Helena Souza Moreira,000.197.379-00,2022-02-09,M,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00198,Daniel Lima Rocha,000.198.386-00,2020-04-29,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00199,Thiago Oliveira Souza,000.199.393-00,2021-10-18,M,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00200,Carlos Pereira Santos,000.200.400-00,2021-05-29,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00201,Gabriel Ramos Mendes,000.201.407-00,2021-09-19,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00202,Isabela Souza Martins,000.202.414-00,2020-09-15,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00203,Julia Nascimento Nascimento,000.203.421-00,2020-07-02,M,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00204,Camila Moreira Fernandes,000.204.428-00,2020-05-21,M,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00205,Larissa Carvalho Santos,000.205.435-00,2021-12-29,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00206,Gabriel Almeida Nascimento,000.206.442-00,2021-02-12,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00207,João Rocha Nascimento,000.207.449-00,2022-07-31,M,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00208,Daniel Pereira Oliveira,000.208.456-00,2020-11-16,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00209,Thiago Mendes Gomes,000.209.463-00,2022-02-09,M,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00210,Sofia Carvalho Martins,000.210.470-00,2022-12-22,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00211,Mariana Martins Ramos,000.211.477-00,2021-08-17,M,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00212,Eduardo Silva Santos,000.212.484-00,2020-07-27,F,TURMA011,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00213,Helena Martins Carvalho,000.213.491-00,2020-08-10,F,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00214,Fernanda Martins Barbosa,000.214.498-00,2021-11-12,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00215,Larissa Lima Costa,000.215.505-00,2021-04-08,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00216,Gabriel Oliveira Costa,000.216.512-00,2020-02-02,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00217,João Oliveira Ramos,000.217.519-00,2020-02-29,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00218,Camila Martins Oliveira,000.218.526-00,2021-06-02,F,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00219,Daniel Dias Almeida,000.219.533-00,2022-09-15,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00220,Miguel Moreira Dias,000.220.540-00,2020-06-21,F,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00221,Daniel Nascimento Ramos,000.221.547-00,2020-12-14,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00222,Miguel Carvalho Rocha,000.222.554-00,2021-09-23,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00223,Mateus Martins Souza,000.223.561-00,2020-10-29,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00224,Valentina Costa Rocha,000.224.568-00,2020-08-24,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00225,Isabela Rocha Moreira,000.225.575-00,2021-08-09,F,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00226,João Nascimento Mendes,000.226.582-00,2020-09-29,F,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00227,Valentina Pereira Rocha,000.227.589-00,2022-10-05,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00228,Mateus Moreira Gomes,000.228.596-00,2022-07-21,F,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00229,Gabriel Mendes Santos,000.229.603-00,2021-02-05,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00230,Lucas Martins Santos,000.230.610-00,2022-07-29,M,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00231,Beatriz Gomes Dias,000.231.617-00,2022-02-07,F,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00232,Lucas Fernandes Dias,000.232.624-00,2020-01-30,F,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00233,Isabela Ramos Moreira,000.233.631-00,2022-06-11,F,TURMA012,EI,Educação Infantil,Infantil 1,Manhã,Ativo,2026
+ALU00234,Mariana Ramos Santos,000.234.638-00,2017-12-24,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00235,João Rocha Souza,000.235.645-00,2019-01-18,F,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00236,Julia Souza Souza,000.236.652-00,2018-11-11,F,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00237,Mateus Gomes Dias,000.237.659-00,2016-02-18,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00238,Gabriel Moreira Costa,000.238.666-00,2017-04-21,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00239,Carlos Costa Moreira,000.239.673-00,2015-04-20,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00240,Thiago Santos Ramos,000.240.680-00,2018-07-28,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00241,Mariana Mendes Rocha,000.241.687-00,2019-06-09,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00242,Eduardo Dias Lima,000.242.694-00,2019-03-28,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00243,João Dias Silva,000.243.701-00,2016-09-05,F,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00244,Fernanda Fernandes Ramos,000.244.708-00,2017-05-11,F,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00245,Helena Lima Barbosa,000.245.715-00,2015-08-04,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00246,Daniel Santos Fernandes,000.246.722-00,2017-04-18,F,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00247,Helena Gomes Gomes,000.247.729-00,2017-10-25,F,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00248,Mateus Gomes Santos,000.248.736-00,2019-11-25,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00249,Vinicius Moreira Rocha,000.249.743-00,2017-06-01,F,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00250,Isabela Silva Oliveira,000.250.750-00,2016-03-30,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00251,Bruno Dias Nascimento,000.251.757-00,2018-01-15,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00252,Thiago Dias Oliveira,000.252.764-00,2017-02-07,F,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00253,Valentina Oliveira Fernandes,000.253.771-00,2016-11-18,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00254,Miguel Lima Nascimento,000.254.778-00,2015-02-03,F,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00255,Mariana Carvalho Barbosa,000.255.785-00,2017-03-18,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00256,João Souza Mendes,000.256.792-00,2016-01-14,M,TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00257,Thiago Santos Lima,000.257.799-00,2019-01-12,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00258,Lucas Carvalho Mendes,000.258.806-00,2016-06-19,M,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00259,Isabela Ramos Fernandes,000.259.813-00,2018-04-18,M,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00260,Mateus Silva Santos,000.260.820-00,2018-01-27,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00261,Camila Oliveira Moreira,000.261.827-00,2017-11-12,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00262,Mateus Souza Santos,000.262.834-00,2018-04-25,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00263,Mateus Martins Gomes,000.263.841-00,2019-06-26,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00264,Vinicius Pereira Costa,000.264.848-00,2015-03-10,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00265,Lucas Nascimento Moreira,000.265.855-00,2018-06-20,M,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00266,Miguel Lima Martins,000.266.862-00,2017-09-15,M,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00267,Helena Nascimento Carvalho,000.267.869-00,2015-10-20,M,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00268,João Gomes Fernandes,000.268.876-00,2015-10-07,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00269,Lucas Barbosa Gomes,000.269.883-00,2016-02-19,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00270,Vinicius Silva Ramos,000.270.890-00,2018-01-08,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00271,Lucas Nascimento Dias,000.271.897-00,2016-09-21,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00272,Isabela Rocha Santos,000.272.904-00,2016-01-30,M,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00273,Carlos Silva Gomes,000.273.911-00,2016-07-29,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00274,Camila Moreira Lima,000.274.918-00,2015-10-16,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00275,Isabela Rocha Moreira,000.275.925-00,2018-08-23,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00276,Mariana Gomes Almeida,000.276.932-00,2015-01-08,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00277,Miguel Oliveira Fernandes,000.277.939-00,2016-08-30,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00278,Camila Pereira Martins,000.278.946-00,2017-06-19,F,TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,Ativo,2026
+ALU00279,Fernanda Pereira Silva,000.279.953-00,2019-05-19,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00280,Carlos Barbosa Mendes,000.280.960-00,2019-09-10,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00281,Julia Carvalho Martins,000.281.967-00,2018-03-30,M,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00282,Carlos Moreira Dias,000.282.974-00,2019-07-24,M,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00283,Mariana Oliveira Ramos,000.283.981-00,2017-12-07,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00284,Larissa Almeida Nascimento,000.284.988-00,2015-12-16,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00285,Mateus Santos Nascimento,000.285.995-00,2015-10-26,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00286,Mateus Lima Fernandes,000.286.002-00,2015-11-05,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00287,Lucas Rocha Barbosa,000.287.009-00,2015-02-21,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00288,Bruno Ramos Moreira,000.288.016-00,2016-01-18,M,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00289,Beatriz Costa Oliveira,000.289.023-00,2015-07-16,M,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00290,Julia Mendes Martins,000.290.030-00,2016-11-03,M,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00291,Mateus Lima Rocha,000.291.037-00,2016-09-18,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00292,Lucas Ramos Pereira,000.292.044-00,2019-04-09,M,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00293,Camila Gomes Oliveira,000.293.051-00,2017-12-30,M,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00294,Vinicius Oliveira Barbosa,000.294.058-00,2018-08-14,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00295,Lucas Moreira Martins,000.295.065-00,2016-05-25,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00296,Isabela Mendes Rocha,000.296.072-00,2016-12-09,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00297,Eduardo Gomes Ramos,000.297.079-00,2017-12-10,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00298,Larissa Oliveira Gomes,000.298.086-00,2019-06-08,M,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00299,Julia Costa Silva,000.299.093-00,2019-03-05,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00300,Eduardo Costa Rocha,000.300.100-00,2015-04-08,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00301,Isabela Mendes Almeida,000.301.107-00,2017-10-24,F,TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00302,Daniel Costa Pereira,000.302.114-00,2015-09-07,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00303,Lucas Santos Mendes,000.303.121-00,2017-12-24,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00304,Thiago Carvalho Ramos,000.304.128-00,2018-08-05,M,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00305,João Carvalho Fernandes,000.305.135-00,2016-12-19,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00306,João Nascimento Moreira,000.306.142-00,2016-06-18,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00307,Lucas Mendes Rocha,000.307.149-00,2018-08-03,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00308,Beatriz Carvalho Dias,000.308.156-00,2019-12-05,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00309,Julia Oliveira Fernandes,000.309.163-00,2016-11-04,M,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00310,Eduardo Pereira Ramos,000.310.170-00,2016-07-22,M,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00311,Sofia Rocha Carvalho,000.311.177-00,2016-11-02,M,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00312,Eduardo Carvalho Pereira,000.312.184-00,2017-10-09,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00313,Rafael Santos Martins,000.313.191-00,2019-11-15,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00314,Mariana Souza Ramos,000.314.198-00,2017-11-11,M,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00315,Daniel Dias Mendes,000.315.205-00,2017-11-27,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00316,Beatriz Martins Ramos,000.316.212-00,2019-10-12,M,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00317,Thiago Silva Almeida,000.317.219-00,2016-10-11,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00318,Larissa Nascimento Nascimento,000.318.226-00,2019-06-07,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00319,Sofia Rocha Martins,000.319.233-00,2017-01-10,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00320,João Fernandes Costa,000.320.240-00,2015-08-08,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00321,Mariana Pereira Lima,000.321.247-00,2015-08-08,M,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00322,Eduardo Nascimento Costa,000.322.254-00,2015-01-27,M,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00323,Mariana Barbosa Santos,000.323.261-00,2016-07-31,F,TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,Ativo,2026
+ALU00324,Mariana Moreira Barbosa,000.324.268-00,2017-11-05,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00325,Vinicius Souza Costa,000.325.275-00,2016-03-30,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00326,Julia Fernandes Mendes,000.326.282-00,2015-04-07,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00327,Valentina Ramos Almeida,000.327.289-00,2016-10-12,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00328,Helena Moreira Martins,000.328.296-00,2015-12-14,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00329,Miguel Martins Moreira,000.329.303-00,2018-03-12,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00330,Thiago Moreira Almeida,000.330.310-00,2017-05-01,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00331,Bruno Souza Ramos,000.331.317-00,2016-01-26,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00332,Eduardo Mendes Gomes,000.332.324-00,2015-02-18,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00333,Camila Carvalho Oliveira,000.333.331-00,2015-04-12,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00334,Julia Santos Costa,000.334.338-00,2016-04-03,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00335,Ana Martins Santos,000.335.345-00,2019-01-31,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00336,Isabela Fernandes Mendes,000.336.352-00,2016-09-22,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00337,João Gomes Barbosa,000.337.359-00,2019-07-02,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00338,Daniel Rocha Ramos,000.338.366-00,2017-08-22,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00339,Mateus Silva Rocha,000.339.373-00,2015-02-15,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00340,Vinicius Carvalho Almeida,000.340.380-00,2015-02-24,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00341,Camila Gomes Dias,000.341.387-00,2019-11-12,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00342,Beatriz Pereira Nascimento,000.342.394-00,2017-09-15,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00343,Bruno Dias Lima,000.343.401-00,2016-08-10,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00344,Miguel Rocha Fernandes,000.344.408-00,2019-12-21,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00345,João Lima Gomes,000.345.415-00,2019-07-27,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00346,Mateus Silva Costa,000.346.422-00,2017-06-11,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00347,Eduardo Ramos Oliveira,000.347.429-00,2019-01-19,F,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00348,Daniel Carvalho Fernandes,000.348.436-00,2019-12-24,M,TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,Ativo,2026
+ALU00349,Larissa Costa Dias,000.349.443-00,2019-11-30,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00350,Isabela Souza Lima,000.350.450-00,2018-10-10,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00351,Isabela Almeida Rocha,000.351.457-00,2019-02-17,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00352,Larissa Nascimento Ramos,000.352.464-00,2016-02-05,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00353,Larissa Nascimento Dias,000.353.471-00,2017-10-23,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00354,Eduardo Silva Costa,000.354.478-00,2019-05-21,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00355,Valentina Fernandes Barbosa,000.355.485-00,2018-03-30,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00356,Thiago Santos Silva,000.356.492-00,2018-11-29,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00357,Mariana Costa Oliveira,000.357.499-00,2018-04-17,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00358,Miguel Moreira Costa,000.358.506-00,2019-01-27,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00359,Rafael Mendes Fernandes,000.359.513-00,2017-06-06,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00360,Carlos Martins Lima,000.360.520-00,2019-04-30,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00361,Mariana Rocha Dias,000.361.527-00,2019-01-10,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00362,Vinicius Moreira Ramos,000.362.534-00,2015-10-25,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00363,Carlos Moreira Gomes,000.363.541-00,2019-11-05,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00364,João Dias Costa,000.364.548-00,2019-02-14,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00365,Larissa Santos Rocha,000.365.555-00,2018-10-12,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00366,Gabriel Barbosa Costa,000.366.562-00,2017-07-31,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00367,Daniel Costa Pereira,000.367.569-00,2019-02-09,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00368,Valentina Costa Costa,000.368.576-00,2016-10-11,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00369,Helena Nascimento Nascimento,000.369.583-00,2015-11-20,M,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00370,Thiago Carvalho Moreira,000.370.590-00,2016-01-31,F,TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00371,Ana Silva Lima,000.371.597-00,2015-06-07,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00372,Thiago Souza Mendes,000.372.604-00,2015-02-05,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00373,Rafael Almeida Rocha,000.373.611-00,2019-02-06,M,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00374,Mariana Silva Martins,000.374.618-00,2015-10-27,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00375,Beatriz Mendes Almeida,000.375.625-00,2017-11-01,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00376,Mateus Almeida Nascimento,000.376.632-00,2018-06-25,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00377,Bruno Souza Costa,000.377.639-00,2015-07-22,M,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00378,Camila Barbosa Barbosa,000.378.646-00,2018-11-27,M,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00379,Julia Santos Martins,000.379.653-00,2018-01-04,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00380,Helena Barbosa Ramos,000.380.660-00,2016-05-29,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00381,João Dias Mendes,000.381.667-00,2015-09-03,M,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00382,Ana Moreira Lima,000.382.674-00,2018-07-18,M,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00383,Julia Dias Barbosa,000.383.681-00,2019-03-01,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00384,Ana Silva Ramos,000.384.688-00,2017-04-28,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00385,Mariana Almeida Almeida,000.385.695-00,2019-06-28,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00386,Mariana Costa Almeida,000.386.702-00,2019-08-22,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00387,Mariana Costa Ramos,000.387.709-00,2018-03-11,M,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00388,Isabela Souza Souza,000.388.716-00,2017-10-18,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00389,Gabriel Nascimento Dias,000.389.723-00,2016-01-04,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00390,Thiago Carvalho Gomes,000.390.730-00,2019-04-13,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00391,Ana Dias Pereira,000.391.737-00,2017-05-20,F,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00392,Thiago Silva Costa,000.392.744-00,2015-08-08,M,TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00393,Julia Barbosa Oliveira,000.393.751-00,2016-03-04,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00394,Daniel Martins Oliveira,000.394.758-00,2017-12-25,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00395,Valentina Rocha Souza,000.395.765-00,2015-07-07,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00396,Lucas Souza Martins,000.396.772-00,2016-06-02,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00397,Camila Costa Barbosa,000.397.779-00,2016-08-30,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00398,Vinicius Moreira Rocha,000.398.786-00,2017-07-09,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00399,Sofia Barbosa Barbosa,000.399.793-00,2015-05-10,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00400,Eduardo Mendes Nascimento,000.400.800-00,2017-10-24,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00401,Isabela Dias Ramos,000.401.807-00,2017-01-24,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00402,Lucas Ramos Gomes,000.402.814-00,2015-05-22,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00403,Ana Nascimento Costa,000.403.821-00,2017-04-23,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00404,Isabela Souza Oliveira,000.404.828-00,2017-12-27,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00405,Beatriz Gomes Martins,000.405.835-00,2019-09-01,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00406,Carlos Fernandes Dias,000.406.842-00,2015-12-01,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00407,Mateus Moreira Pereira,000.407.849-00,2015-02-04,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00408,Julia Lima Mendes,000.408.856-00,2017-05-31,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00409,Camila Pereira Santos,000.409.863-00,2017-12-05,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00410,Camila Costa Gomes,000.410.870-00,2019-07-13,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00411,Larissa Costa Pereira,000.411.877-00,2016-07-15,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00412,Ana Moreira Dias,000.412.884-00,2016-06-20,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00413,Lucas Barbosa Lima,000.413.891-00,2018-12-01,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00414,Rafael Oliveira Nascimento,000.414.898-00,2018-09-25,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00415,Helena Silva Dias,000.415.905-00,2018-09-03,M,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00416,Mateus Moreira Silva,000.416.912-00,2018-05-29,F,TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00417,Isabela Nascimento Oliveira,000.417.919-00,2019-12-20,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00418,Gabriel Souza Pereira,000.418.926-00,2019-03-25,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00419,Mariana Dias Oliveira,000.419.933-00,2019-05-03,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00420,Mariana Silva Moreira,000.420.940-00,2016-02-12,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00421,Gabriel Fernandes Martins,000.421.947-00,2015-03-05,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00422,Mariana Santos Nascimento,000.422.954-00,2017-11-29,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00423,Valentina Dias Santos,000.423.961-00,2017-04-09,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00424,Rafael Santos Gomes,000.424.968-00,2018-03-15,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00425,Sofia Gomes Costa,000.425.975-00,2019-11-13,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00426,Carlos Carvalho Ramos,000.426.982-00,2015-01-09,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00427,Lucas Rocha Nascimento,000.427.989-00,2018-02-14,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00428,Daniel Carvalho Martins,000.428.996-00,2017-08-06,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00429,Fernanda Martins Gomes,000.429.003-00,2015-10-28,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00430,Vinicius Souza Oliveira,000.430.010-00,2017-05-14,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00431,Camila Barbosa Nascimento,000.431.017-00,2017-05-26,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00432,Mateus Pereira Martins,000.432.024-00,2018-03-11,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00433,Thiago Silva Oliveira,000.433.031-00,2019-08-02,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00434,Isabela Santos Souza,000.434.038-00,2016-07-17,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00435,Rafael Moreira Almeida,000.435.045-00,2016-02-12,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00436,João Lima Mendes,000.436.052-00,2015-05-11,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00437,Miguel Oliveira Lima,000.437.059-00,2016-08-24,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00438,Beatriz Pereira Mendes,000.438.066-00,2019-08-28,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00439,Thiago Nascimento Souza,000.439.073-00,2016-06-11,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00440,Camila Oliveira Santos,000.440.080-00,2019-12-15,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00441,Camila Almeida Pereira,000.441.087-00,2017-02-10,M,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00442,Bruno Costa Almeida,000.442.094-00,2019-06-19,F,TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00443,Gabriel Souza Almeida,000.443.101-00,2019-08-30,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00444,Carlos Martins Dias,000.444.108-00,2015-05-08,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00445,Thiago Souza Fernandes,000.445.115-00,2017-02-17,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00446,Miguel Almeida Mendes,000.446.122-00,2019-06-18,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00447,Helena Mendes Mendes,000.447.129-00,2015-07-20,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00448,Mariana Carvalho Souza,000.448.136-00,2016-05-21,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00449,Lucas Santos Lima,000.449.143-00,2019-09-27,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00450,João Lima Costa,000.450.150-00,2017-06-16,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00451,Ana Dias Moreira,000.451.157-00,2017-06-05,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00452,Thiago Fernandes Carvalho,000.452.164-00,2019-08-31,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00453,Ana Nascimento Moreira,000.453.171-00,2017-06-23,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00454,Ana Mendes Fernandes,000.454.178-00,2019-05-21,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00455,Miguel Rocha Almeida,000.455.185-00,2019-03-06,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00456,Isabela Costa Moreira,000.456.192-00,2016-10-03,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00457,Thiago Souza Martins,000.457.199-00,2015-07-15,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00458,Beatriz Fernandes Oliveira,000.458.206-00,2016-03-01,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00459,Miguel Martins Carvalho,000.459.213-00,2016-09-25,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00460,Sofia Pereira Souza,000.460.220-00,2019-04-29,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00461,Lucas Martins Santos,000.461.227-00,2015-11-15,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00462,Sofia Rocha Souza,000.462.234-00,2017-02-19,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00463,Ana Nascimento Martins,000.463.241-00,2016-06-18,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00464,Isabela Silva Mendes,000.464.248-00,2016-02-15,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00465,Mariana Gomes Martins,000.465.255-00,2015-02-27,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00466,Camila Ramos Santos,000.466.262-00,2017-04-15,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00467,Daniel Oliveira Lima,000.467.269-00,2017-08-24,M,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00468,Thiago Silva Oliveira,000.468.276-00,2019-05-21,F,TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00469,Carlos Martins Santos,000.469.283-00,2016-02-16,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00470,Gabriel Carvalho Nascimento,000.470.290-00,2016-05-21,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00471,Mateus Souza Barbosa,000.471.297-00,2018-04-05,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00472,Beatriz Pereira Santos,000.472.304-00,2018-05-19,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00473,Sofia Barbosa Lima,000.473.311-00,2018-09-15,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00474,Rafael Dias Rocha,000.474.318-00,2018-05-16,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00475,Valentina Fernandes Santos,000.475.325-00,2015-07-24,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00476,Mariana Barbosa Lima,000.476.332-00,2016-05-18,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00477,Mariana Barbosa Nascimento,000.477.339-00,2016-06-13,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00478,Gabriel Almeida Silva,000.478.346-00,2019-11-12,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00479,Ana Rocha Lima,000.479.353-00,2015-04-03,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00480,Fernanda Souza Costa,000.480.360-00,2019-04-17,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00481,Mariana Barbosa Barbosa,000.481.367-00,2017-09-08,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00482,Thiago Rocha Costa,000.482.374-00,2015-08-07,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00483,Miguel Gomes Costa,000.483.381-00,2017-11-01,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00484,Ana Gomes Martins,000.484.388-00,2018-04-23,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00485,Helena Almeida Moreira,000.485.395-00,2017-02-05,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00486,Valentina Lima Nascimento,000.486.402-00,2015-03-31,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00487,Larissa Gomes Carvalho,000.487.409-00,2018-02-08,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00488,Lucas Rocha Souza,000.488.416-00,2018-08-08,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00489,Mariana Barbosa Carvalho,000.489.423-00,2019-09-11,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00490,Vinicius Martins Martins,000.490.430-00,2016-07-11,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00491,Daniel Fernandes Fernandes,000.491.437-00,2017-09-10,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00492,Mateus Carvalho Ramos,000.492.444-00,2018-07-20,F,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00493,Bruno Santos Martins,000.493.451-00,2019-06-26,M,TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00494,Vinicius Pereira Almeida,000.494.458-00,2015-01-19,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00495,Daniel Fernandes Gomes,000.495.465-00,2018-12-23,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00496,Isabela Pereira Moreira,000.496.472-00,2019-06-13,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00497,Fernanda Martins Mendes,000.497.479-00,2018-06-17,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00498,Carlos Fernandes Almeida,000.498.486-00,2019-12-28,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00499,Thiago Costa Dias,000.499.493-00,2015-05-23,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00500,Daniel Carvalho Mendes,000.500.500-00,2017-06-14,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00501,Isabela Gomes Gomes,000.501.507-00,2015-03-18,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00502,Thiago Fernandes Santos,000.502.514-00,2018-09-10,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00503,Helena Santos Nascimento,000.503.521-00,2019-02-14,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00504,Daniel Santos Dias,000.504.528-00,2018-03-29,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00505,Rafael Silva Barbosa,000.505.535-00,2016-12-05,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00506,Ana Martins Pereira,000.506.542-00,2017-03-26,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00507,Rafael Barbosa Gomes,000.507.549-00,2017-10-23,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00508,Miguel Moreira Moreira,000.508.556-00,2017-08-17,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00509,Miguel Mendes Nascimento,000.509.563-00,2017-05-08,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00510,Miguel Lima Souza,000.510.570-00,2019-09-20,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00511,Carlos Pereira Mendes,000.511.577-00,2017-02-08,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00512,Daniel Almeida Ramos,000.512.584-00,2016-07-13,F,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00513,Julia Martins Oliveira,000.513.591-00,2019-06-03,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00514,Bruno Rocha Silva,000.514.598-00,2017-01-22,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00515,Bruno Mendes Oliveira,000.515.605-00,2019-08-02,M,TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00516,Larissa Santos Carvalho,000.516.612-00,2016-04-12,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00517,Fernanda Costa Oliveira,000.517.619-00,2019-08-16,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00518,Rafael Costa Costa,000.518.626-00,2017-01-29,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00519,Ana Fernandes Carvalho,000.519.633-00,2018-04-21,F,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00520,Bruno Costa Martins,000.520.640-00,2017-05-15,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00521,Isabela Souza Rocha,000.521.647-00,2019-10-05,F,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00522,Larissa Mendes Ramos,000.522.654-00,2018-04-26,F,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00523,Miguel Oliveira Martins,000.523.661-00,2018-03-28,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00524,Gabriel Martins Oliveira,000.524.668-00,2017-11-22,F,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00525,Mariana Almeida Moreira,000.525.675-00,2019-01-07,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00526,Camila Almeida Costa,000.526.682-00,2018-10-19,F,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00527,Helena Costa Dias,000.527.689-00,2018-03-23,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00528,Beatriz Carvalho Rocha,000.528.696-00,2015-05-05,F,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00529,Julia Lima Gomes,000.529.703-00,2016-10-15,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00530,Thiago Oliveira Mendes,000.530.710-00,2015-02-02,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00531,Julia Carvalho Lima,000.531.717-00,2017-03-25,F,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00532,Mariana Ramos Souza,000.532.724-00,2017-03-07,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00533,João Moreira Rocha,000.533.731-00,2018-09-19,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00534,Gabriel Rocha Oliveira,000.534.738-00,2016-11-29,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00535,Lucas Oliveira Lima,000.535.745-00,2017-05-17,F,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00536,Ana Fernandes Gomes,000.536.752-00,2015-04-26,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00537,Valentina Carvalho Silva,000.537.759-00,2016-05-01,M,TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,Ativo,2026
+ALU00538,Helena Pereira Martins,000.538.766-00,2017-04-13,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00539,Daniel Souza Mendes,000.539.773-00,2018-01-17,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00540,Beatriz Martins Souza,000.540.780-00,2017-03-05,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00541,Fernanda Nascimento Rocha,000.541.787-00,2018-01-10,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00542,Carlos Almeida Carvalho,000.542.794-00,2018-07-20,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00543,Mariana Almeida Gomes,000.543.801-00,2019-12-27,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00544,Julia Carvalho Santos,000.544.808-00,2016-08-04,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00545,Bruno Moreira Nascimento,000.545.815-00,2018-11-28,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00546,Eduardo Moreira Mendes,000.546.822-00,2015-04-08,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00547,Helena Barbosa Santos,000.547.829-00,2015-07-30,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00548,Carlos Moreira Mendes,000.548.836-00,2016-09-03,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00549,Camila Rocha Mendes,000.549.843-00,2016-03-21,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00550,Carlos Barbosa Fernandes,000.550.850-00,2018-11-10,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00551,Miguel Silva Santos,000.551.857-00,2015-07-02,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00552,Ana Santos Silva,000.552.864-00,2018-10-10,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00553,Camila Moreira Souza,000.553.871-00,2017-12-16,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00554,Valentina Moreira Mendes,000.554.878-00,2015-03-03,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00555,Larissa Nascimento Dias,000.555.885-00,2017-09-18,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00556,Daniel Martins Lima,000.556.892-00,2016-04-26,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00557,Miguel Mendes Rocha,000.557.899-00,2016-12-03,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00558,Daniel Martins Souza,000.558.906-00,2019-06-22,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00559,Miguel Carvalho Almeida,000.559.913-00,2016-04-27,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00560,Valentina Rocha Costa,000.560.920-00,2019-08-28,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00561,Sofia Mendes Dias,000.561.927-00,2017-07-20,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00562,Sofia Lima Gomes,000.562.934-00,2017-05-15,M,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00563,João Pereira Fernandes,000.563.941-00,2019-08-27,F,TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,Ativo,2026
+ALU00564,Eduardo Ramos Martins,000.564.948-00,2017-11-12,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00565,Larissa Barbosa Dias,000.565.955-00,2015-04-28,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00566,Isabela Silva Gomes,000.566.962-00,2015-06-23,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00567,Isabela Gomes Martins,000.567.969-00,2015-12-03,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00568,Mateus Pereira Martins,000.568.976-00,2016-06-10,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00569,Miguel Souza Mendes,000.569.983-00,2018-10-26,M,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00570,Fernanda Lima Silva,000.570.990-00,2018-08-12,M,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00571,Daniel Almeida Fernandes,000.571.997-00,2018-11-12,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00572,Beatriz Barbosa Dias,000.572.004-00,2015-11-15,M,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00573,Miguel Carvalho Moreira,000.573.011-00,2017-09-05,M,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00574,Beatriz Mendes Fernandes,000.574.018-00,2019-01-10,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00575,Lucas Ramos Santos,000.575.025-00,2017-10-30,M,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00576,Fernanda Souza Dias,000.576.032-00,2016-02-06,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00577,Beatriz Costa Ramos,000.577.039-00,2019-06-23,M,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00578,Valentina Pereira Santos,000.578.046-00,2018-07-04,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00579,Helena Almeida Pereira,000.579.053-00,2019-10-01,M,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00580,Camila Nascimento Dias,000.580.060-00,2017-01-18,M,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00581,Vinicius Silva Pereira,000.581.067-00,2018-01-07,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00582,Mariana Mendes Silva,000.582.074-00,2017-06-22,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00583,Miguel Carvalho Almeida,000.583.081-00,2017-10-24,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00584,Eduardo Mendes Carvalho,000.584.088-00,2016-01-27,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00585,Bruno Gomes Pereira,000.585.095-00,2018-06-02,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00586,Camila Rocha Oliveira,000.586.102-00,2019-04-10,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00587,Miguel Nascimento Ramos,000.587.109-00,2016-04-26,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00588,Lucas Nascimento Nascimento,000.588.116-00,2016-10-06,M,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00589,Ana Dias Silva,000.589.123-00,2017-12-04,F,TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,Ativo,2026
+ALU00590,Bruno Gomes Dias,000.590.130-00,2017-09-19,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00591,Helena Barbosa Ramos,000.591.137-00,2015-04-10,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00592,Camila Mendes Costa,000.592.144-00,2017-05-22,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00593,Mateus Fernandes Ramos,000.593.151-00,2015-12-20,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00594,João Nascimento Mendes,000.594.158-00,2019-07-13,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00595,Lucas Gomes Rocha,000.595.165-00,2017-01-13,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00596,Camila Mendes Barbosa,000.596.172-00,2015-06-02,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00597,Beatriz Rocha Martins,000.597.179-00,2019-02-18,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00598,Rafael Rocha Mendes,000.598.186-00,2019-06-15,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00599,Thiago Moreira Almeida,000.599.193-00,2019-09-15,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00600,Helena Costa Ramos,000.600.200-00,2016-06-23,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00601,Bruno Martins Martins,000.601.207-00,2015-06-08,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00602,Isabela Nascimento Dias,000.602.214-00,2016-11-13,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00603,Carlos Pereira Silva,000.603.221-00,2018-08-27,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00604,Miguel Lima Souza,000.604.228-00,2016-06-05,F,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00605,Miguel Moreira Ramos,000.605.235-00,2018-11-20,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00606,Mateus Mendes Rocha,000.606.242-00,2019-03-24,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00607,Isabela Mendes Lima,000.607.249-00,2018-05-16,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00608,Thiago Costa Nascimento,000.608.256-00,2017-09-11,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00609,Beatriz Martins Oliveira,000.609.263-00,2017-04-04,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00610,Lucas Nascimento Costa,000.610.270-00,2017-02-08,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00611,Vinicius Martins Rocha,000.611.277-00,2018-09-01,M,TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,Ativo,2026
+ALU00612,Valentina Souza Lima,000.612.284-00,2013-03-22,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00613,Sofia Nascimento Costa,000.613.291-00,2013-07-01,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00614,Mateus Mendes Rocha,000.614.298-00,2013-04-26,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00615,Fernanda Gomes Nascimento,000.615.305-00,2012-04-30,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00616,Eduardo Costa Dias,000.616.312-00,2012-06-22,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00617,Daniel Dias Dias,000.617.319-00,2011-09-17,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00618,Rafael Ramos Oliveira,000.618.326-00,2012-07-30,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00619,Vinicius Nascimento Mendes,000.619.333-00,2011-12-30,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00620,Daniel Nascimento Pereira,000.620.340-00,2011-03-14,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00621,Mateus Ramos Santos,000.621.347-00,2011-01-16,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00622,Camila Nascimento Barbosa,000.622.354-00,2013-10-30,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00623,Eduardo Moreira Costa,000.623.361-00,2011-09-08,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00624,Miguel Ramos Mendes,000.624.368-00,2012-12-26,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00625,Isabela Almeida Barbosa,000.625.375-00,2014-10-01,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00626,Eduardo Souza Rocha,000.626.382-00,2011-11-12,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00627,Carlos Souza Carvalho,000.627.389-00,2014-12-29,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00628,Lucas Souza Gomes,000.628.396-00,2014-11-21,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00629,Fernanda Costa Costa,000.629.403-00,2013-01-24,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00630,Lucas Costa Rocha,000.630.410-00,2011-07-12,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00631,Carlos Barbosa Barbosa,000.631.417-00,2011-08-12,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00632,Eduardo Lima Mendes,000.632.424-00,2012-06-26,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00633,Daniel Ramos Fernandes,000.633.431-00,2014-04-12,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00634,Camila Lima Dias,000.634.438-00,2012-09-04,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00635,Mateus Ramos Mendes,000.635.445-00,2014-09-02,M,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00636,Ana Ramos Silva,000.636.452-00,2011-04-07,F,TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00637,Isabela Ramos Dias,000.637.459-00,2013-10-31,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00638,Eduardo Lima Carvalho,000.638.466-00,2013-02-09,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00639,Ana Carvalho Gomes,000.639.473-00,2012-01-11,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00640,João Rocha Oliveira,000.640.480-00,2012-08-13,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00641,Gabriel Rocha Barbosa,000.641.487-00,2011-09-09,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00642,Mateus Almeida Nascimento,000.642.494-00,2011-07-29,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00643,Carlos Silva Barbosa,000.643.501-00,2014-04-15,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00644,Sofia Souza Ramos,000.644.508-00,2011-12-15,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00645,João Pereira Costa,000.645.515-00,2012-02-22,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00646,Isabela Almeida Ramos,000.646.522-00,2012-08-18,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00647,Carlos Oliveira Dias,000.647.529-00,2012-04-17,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00648,Julia Ramos Martins,000.648.536-00,2012-04-18,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00649,Beatriz Silva Pereira,000.649.543-00,2011-04-03,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00650,Beatriz Mendes Rocha,000.650.550-00,2013-09-25,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00651,Lucas Rocha Pereira,000.651.557-00,2014-04-23,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00652,Camila Martins Oliveira,000.652.564-00,2013-08-25,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00653,Mariana Lima Ramos,000.653.571-00,2012-04-24,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00654,Gabriel Fernandes Rocha,000.654.578-00,2011-03-18,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00655,Rafael Fernandes Dias,000.655.585-00,2011-05-24,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00656,Ana Gomes Moreira,000.656.592-00,2014-09-14,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00657,Helena Gomes Nascimento,000.657.599-00,2012-07-21,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00658,Mateus Dias Almeida,000.658.606-00,2014-02-09,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00659,Vinicius Dias Nascimento,000.659.613-00,2014-01-07,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00660,João Lima Almeida,000.660.620-00,2013-10-04,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00661,Mateus Santos Oliveira,000.661.627-00,2012-03-14,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00662,Carlos Nascimento Dias,000.662.634-00,2011-05-06,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00663,Daniel Lima Costa,000.663.641-00,2014-07-27,M,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00664,Beatriz Rocha Lima,000.664.648-00,2011-05-25,F,TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00665,Carlos Ramos Pereira,000.665.655-00,2011-08-31,M,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00666,Daniel Nascimento Souza,000.666.662-00,2014-08-08,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00667,Mariana Oliveira Martins,000.667.669-00,2014-02-17,M,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00668,Mariana Rocha Oliveira,000.668.676-00,2013-12-23,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00669,Carlos Nascimento Nascimento,000.669.683-00,2014-03-20,M,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00670,Camila Martins Pereira,000.670.690-00,2012-05-03,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00671,Miguel Rocha Nascimento,000.671.697-00,2013-03-09,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00672,Mariana Ramos Rocha,000.672.704-00,2011-03-11,M,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00673,Camila Barbosa Oliveira,000.673.711-00,2013-01-23,M,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00674,Fernanda Martins Moreira,000.674.718-00,2012-08-24,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00675,Valentina Carvalho Costa,000.675.725-00,2014-04-01,M,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00676,Lucas Lima Oliveira,000.676.732-00,2014-08-19,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00677,João Mendes Fernandes,000.677.739-00,2014-03-19,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00678,Mateus Barbosa Silva,000.678.746-00,2013-04-20,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00679,Camila Lima Carvalho,000.679.753-00,2011-09-06,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00680,Mariana Martins Martins,000.680.760-00,2014-02-21,M,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00681,Miguel Moreira Souza,000.681.767-00,2011-01-16,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00682,Vinicius Martins Barbosa,000.682.774-00,2014-12-02,M,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00683,Rafael Fernandes Lima,000.683.781-00,2011-08-15,M,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00684,Larissa Lima Mendes,000.684.788-00,2014-08-13,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00685,Bruno Oliveira Martins,000.685.795-00,2011-12-10,F,TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00686,Mariana Almeida Barbosa,000.686.802-00,2012-11-10,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00687,Isabela Pereira Moreira,000.687.809-00,2011-01-13,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00688,Camila Souza Moreira,000.688.816-00,2012-03-06,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00689,Eduardo Ramos Martins,000.689.823-00,2014-10-11,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00690,Mariana Carvalho Barbosa,000.690.830-00,2013-05-08,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00691,Daniel Almeida Rocha,000.691.837-00,2014-02-25,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00692,Julia Martins Martins,000.692.844-00,2011-04-04,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00693,Larissa Almeida Gomes,000.693.851-00,2012-01-19,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00694,Ana Silva Almeida,000.694.858-00,2012-11-27,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00695,Thiago Souza Lima,000.695.865-00,2013-06-15,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00696,Mariana Moreira Santos,000.696.872-00,2014-05-13,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00697,Mateus Lima Mendes,000.697.879-00,2013-07-01,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00698,Lucas Ramos Oliveira,000.698.886-00,2012-11-14,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00699,Valentina Moreira Barbosa,000.699.893-00,2013-06-29,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00700,Julia Costa Almeida,000.700.900-00,2012-12-18,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00701,Mateus Costa Costa,000.701.907-00,2012-10-01,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00702,Vinicius Pereira Barbosa,000.702.914-00,2012-04-03,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00703,João Dias Ramos,000.703.921-00,2014-05-16,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00704,Camila Pereira Martins,000.704.928-00,2012-11-09,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00705,Helena Costa Mendes,000.705.935-00,2012-01-07,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00706,Gabriel Souza Gomes,000.706.942-00,2014-05-10,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00707,Ana Gomes Fernandes,000.707.949-00,2013-04-04,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00708,Valentina Oliveira Ramos,000.708.956-00,2012-08-30,M,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00709,Thiago Lima Ramos,000.709.963-00,2014-03-04,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00710,Eduardo Nascimento Dias,000.710.970-00,2014-09-10,F,TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00711,Larissa Nascimento Oliveira,000.711.977-00,2012-06-09,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00712,Rafael Costa Moreira,000.712.984-00,2011-11-12,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00713,Isabela Silva Gomes,000.713.991-00,2011-06-27,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00714,Lucas Silva Fernandes,000.714.998-00,2013-05-21,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00715,Gabriel Almeida Rocha,000.715.005-00,2014-09-21,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00716,Bruno Costa Fernandes,000.716.012-00,2014-10-11,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00717,Carlos Costa Mendes,000.717.019-00,2014-06-09,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00718,Fernanda Pereira Costa,000.718.026-00,2011-12-29,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00719,Helena Ramos Carvalho,000.719.033-00,2012-04-19,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00720,Fernanda Dias Ramos,000.720.040-00,2012-09-05,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00721,Helena Moreira Rocha,000.721.047-00,2011-12-25,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00722,Thiago Souza Martins,000.722.054-00,2011-03-29,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00723,Daniel Costa Santos,000.723.061-00,2012-04-25,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00724,Bruno Nascimento Barbosa,000.724.068-00,2011-03-01,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00725,Camila Costa Mendes,000.725.075-00,2011-07-10,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00726,Beatriz Ramos Souza,000.726.082-00,2013-02-24,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00727,Daniel Nascimento Souza,000.727.089-00,2014-12-02,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00728,Miguel Barbosa Barbosa,000.728.096-00,2014-03-26,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00729,Miguel Lima Mendes,000.729.103-00,2012-02-07,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00730,Mateus Moreira Oliveira,000.730.110-00,2013-11-07,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00731,Valentina Rocha Almeida,000.731.117-00,2013-03-04,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00732,Rafael Rocha Martins,000.732.124-00,2011-11-29,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00733,Isabela Nascimento Nascimento,000.733.131-00,2011-06-27,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00734,Julia Mendes Barbosa,000.734.138-00,2013-06-21,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00735,Gabriel Santos Pereira,000.735.145-00,2013-12-29,M,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00736,Camila Mendes Nascimento,000.736.152-00,2011-05-03,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00737,Carlos Martins Rocha,000.737.159-00,2012-06-29,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00738,Carlos Lima Barbosa,000.738.166-00,2011-02-14,F,TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,Ativo,2026
+ALU00739,Eduardo Costa Pereira,000.739.173-00,2014-07-09,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00740,Thiago Souza Souza,000.740.180-00,2014-04-14,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00741,Rafael Martins Costa,000.741.187-00,2013-05-31,F,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00742,Bruno Pereira Mendes,000.742.194-00,2014-07-10,F,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00743,Bruno Carvalho Pereira,000.743.201-00,2012-10-21,F,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00744,Isabela Martins Almeida,000.744.208-00,2012-01-06,F,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00745,Isabela Souza Dias,000.745.215-00,2012-07-23,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00746,Gabriel Barbosa Moreira,000.746.222-00,2012-05-17,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00747,Vinicius Pereira Gomes,000.747.229-00,2013-07-05,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00748,Miguel Silva Gomes,000.748.236-00,2012-03-05,F,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00749,João Moreira Moreira,000.749.243-00,2011-05-16,F,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00750,Fernanda Gomes Dias,000.750.250-00,2012-07-23,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00751,Carlos Barbosa Martins,000.751.257-00,2013-02-16,F,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00752,João Fernandes Rocha,000.752.264-00,2014-08-29,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00753,Eduardo Santos Martins,000.753.271-00,2011-02-26,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00754,João Rocha Rocha,000.754.278-00,2011-01-25,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00755,Fernanda Barbosa Dias,000.755.285-00,2014-08-11,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00756,Camila Pereira Santos,000.756.292-00,2011-01-08,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00757,Camila Silva Barbosa,000.757.299-00,2014-03-18,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00758,Valentina Gomes Rocha,000.758.306-00,2014-06-05,M,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00759,Bruno Gomes Martins,000.759.313-00,2012-05-24,F,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00760,Lucas Martins Gomes,000.760.320-00,2013-10-20,F,TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00761,Mateus Souza Souza,000.761.327-00,2013-09-14,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00762,Bruno Fernandes Dias,000.762.334-00,2013-12-16,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00763,Beatriz Martins Souza,000.763.341-00,2011-12-27,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00764,João Ramos Lima,000.764.348-00,2011-07-07,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00765,Ana Almeida Gomes,000.765.355-00,2012-12-29,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00766,Valentina Costa Barbosa,000.766.362-00,2011-03-13,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00767,Ana Costa Carvalho,000.767.369-00,2014-11-24,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00768,Larissa Lima Carvalho,000.768.376-00,2011-05-01,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00769,Carlos Gomes Souza,000.769.383-00,2012-05-19,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00770,Thiago Lima Rocha,000.770.390-00,2012-05-21,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00771,Julia Costa Rocha,000.771.397-00,2014-10-15,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00772,Thiago Costa Ramos,000.772.404-00,2014-12-23,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00773,Helena Ramos Mendes,000.773.411-00,2012-10-28,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00774,Beatriz Oliveira Carvalho,000.774.418-00,2014-10-06,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00775,Mateus Carvalho Silva,000.775.425-00,2011-03-15,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00776,Camila Oliveira Nascimento,000.776.432-00,2012-04-14,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00777,Thiago Carvalho Lima,000.777.439-00,2013-08-13,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00778,João Pereira Mendes,000.778.446-00,2013-07-16,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00779,Miguel Costa Martins,000.779.453-00,2013-05-30,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00780,Carlos Gomes Almeida,000.780.460-00,2011-04-16,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00781,Daniel Rocha Rocha,000.781.467-00,2014-01-20,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00782,Lucas Fernandes Souza,000.782.474-00,2011-02-20,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00783,Miguel Costa Ramos,000.783.481-00,2012-10-31,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00784,Mateus Pereira Barbosa,000.784.488-00,2011-01-11,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00785,Helena Silva Costa,000.785.495-00,2012-11-06,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00786,Miguel Lima Moreira,000.786.502-00,2013-03-09,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00787,Daniel Oliveira Nascimento,000.787.509-00,2013-08-09,M,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00788,Vinicius Martins Barbosa,000.788.516-00,2014-08-23,F,TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,Ativo,2026
+ALU00789,Valentina Nascimento Fernandes,000.789.523-00,2012-11-10,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00790,Vinicius Martins Dias,000.790.530-00,2012-02-09,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00791,João Souza Ramos,000.791.537-00,2014-12-30,M,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00792,Eduardo Gomes Ramos,000.792.544-00,2011-05-17,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00793,Daniel Santos Silva,000.793.551-00,2013-06-08,M,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00794,Daniel Fernandes Almeida,000.794.558-00,2013-07-27,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00795,Mariana Martins Barbosa,000.795.565-00,2011-04-27,M,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00796,Valentina Oliveira Lima,000.796.572-00,2012-08-09,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00797,Helena Almeida Costa,000.797.579-00,2011-09-14,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00798,Rafael Almeida Almeida,000.798.586-00,2014-08-01,M,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00799,Thiago Dias Carvalho,000.799.593-00,2012-03-29,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00800,Carlos Lima Oliveira,000.800.600-00,2011-08-05,M,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00801,Carlos Costa Silva,000.801.607-00,2012-09-21,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00802,Miguel Moreira Martins,000.802.614-00,2014-05-15,M,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00803,Ana Carvalho Mendes,000.803.621-00,2012-05-30,M,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00804,Miguel Almeida Fernandes,000.804.628-00,2014-12-24,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00805,Mateus Pereira Dias,000.805.635-00,2014-03-15,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00806,Helena Dias Martins,000.806.642-00,2013-08-04,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00807,Beatriz Carvalho Almeida,000.807.649-00,2013-06-25,M,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00808,Isabela Souza Silva,000.808.656-00,2012-04-08,M,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00809,Mariana Carvalho Rocha,000.809.663-00,2011-03-10,F,TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00810,João Gomes Souza,000.810.670-00,2014-11-04,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00811,Ana Carvalho Souza,000.811.677-00,2013-01-25,M,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00812,Ana Ramos Lima,000.812.684-00,2013-08-13,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00813,Bruno Gomes Dias,000.813.691-00,2012-04-27,M,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00814,Sofia Rocha Ramos,000.814.698-00,2013-05-09,M,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00815,Julia Costa Rocha,000.815.705-00,2011-08-08,M,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00816,João Almeida Martins,000.816.712-00,2011-06-18,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00817,Bruno Dias Oliveira,000.817.719-00,2012-01-25,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00818,Larissa Dias Santos,000.818.726-00,2012-06-12,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00819,Mariana Nascimento Carvalho,000.819.733-00,2012-10-22,M,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00820,Miguel Dias Costa,000.820.740-00,2013-11-16,M,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00821,Sofia Dias Santos,000.821.747-00,2011-12-14,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00822,João Carvalho Silva,000.822.754-00,2011-01-14,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00823,Fernanda Souza Lima,000.823.761-00,2013-03-26,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00824,Isabela Barbosa Lima,000.824.768-00,2013-09-15,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00825,Miguel Ramos Gomes,000.825.775-00,2011-02-17,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00826,Isabela Souza Fernandes,000.826.782-00,2014-08-17,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00827,Gabriel Pereira Fernandes,000.827.789-00,2012-04-03,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00828,Thiago Barbosa Gomes,000.828.796-00,2011-01-31,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00829,Gabriel Barbosa Lima,000.829.803-00,2014-01-16,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00830,Camila Mendes Moreira,000.830.810-00,2011-06-15,M,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00831,Julia Pereira Nascimento,000.831.817-00,2011-05-27,F,TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,Ativo,2026
+ALU00832,Beatriz Mendes Barbosa,000.832.824-00,2014-09-29,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00833,Sofia Lima Lima,000.833.831-00,2011-08-18,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00834,Carlos Barbosa Oliveira,000.834.838-00,2012-10-10,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00835,Gabriel Barbosa Fernandes,000.835.845-00,2014-09-28,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00836,Fernanda Santos Nascimento,000.836.852-00,2013-03-20,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00837,Carlos Gomes Santos,000.837.859-00,2013-08-11,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00838,Ana Gomes Mendes,000.838.866-00,2011-02-09,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00839,Camila Silva Almeida,000.839.873-00,2011-12-12,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00840,Lucas Martins Oliveira,000.840.880-00,2013-01-26,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00841,Miguel Lima Silva,000.841.887-00,2011-05-26,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00842,Gabriel Pereira Lima,000.842.894-00,2012-12-25,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00843,Larissa Almeida Dias,000.843.901-00,2014-08-02,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00844,Fernanda Almeida Souza,000.844.908-00,2012-10-26,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00845,Mariana Nascimento Ramos,000.845.915-00,2012-11-17,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00846,Larissa Santos Costa,000.846.922-00,2011-11-05,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00847,Isabela Lima Fernandes,000.847.929-00,2014-06-15,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00848,Rafael Costa Carvalho,000.848.936-00,2014-05-27,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00849,Lucas Moreira Nascimento,000.849.943-00,2011-01-14,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00850,Sofia Nascimento Martins,000.850.950-00,2014-09-19,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00851,Beatriz Carvalho Dias,000.851.957-00,2011-06-04,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00852,João Mendes Mendes,000.852.964-00,2014-07-24,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00853,Fernanda Santos Almeida,000.853.971-00,2014-04-03,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00854,Carlos Carvalho Rocha,000.854.978-00,2013-12-31,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00855,João Carvalho Oliveira,000.855.985-00,2011-09-06,M,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00856,Rafael Lima Gomes,000.856.992-00,2011-06-29,F,TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,Ativo,2026
+ALU00857,Julia Costa Lima,000.857.999-00,2013-02-01,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00858,Larissa Mendes Costa,000.858.006-00,2011-04-12,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00859,Bruno Moreira Martins,000.859.013-00,2011-03-11,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00860,Lucas Mendes Oliveira,000.860.020-00,2011-07-30,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00861,Bruno Mendes Fernandes,000.861.027-00,2013-09-07,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00862,Vinicius Barbosa Nascimento,000.862.034-00,2013-10-23,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00863,Rafael Oliveira Pereira,000.863.041-00,2011-05-01,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00864,Thiago Martins Oliveira,000.864.048-00,2014-09-08,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00865,Helena Silva Rocha,000.865.055-00,2012-03-04,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00866,João Almeida Santos,000.866.062-00,2014-12-11,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00867,Thiago Barbosa Dias,000.867.069-00,2011-03-22,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00868,Vinicius Fernandes Ramos,000.868.076-00,2012-07-07,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00869,Helena Santos Nascimento,000.869.083-00,2012-07-14,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00870,Sofia Pereira Martins,000.870.090-00,2012-11-15,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00871,Eduardo Santos Nascimento,000.871.097-00,2013-06-28,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00872,Rafael Moreira Mendes,000.872.104-00,2013-04-25,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00873,Isabela Dias Fernandes,000.873.111-00,2011-10-02,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00874,Valentina Dias Almeida,000.874.118-00,2012-12-23,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00875,Sofia Ramos Nascimento,000.875.125-00,2012-04-07,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00876,Daniel Almeida Mendes,000.876.132-00,2012-04-22,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00877,Camila Almeida Silva,000.877.139-00,2013-01-19,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00878,Carlos Dias Rocha,000.878.146-00,2011-04-27,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00879,Lucas Gomes Moreira,000.879.153-00,2011-09-03,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00880,Isabela Oliveira Oliveira,000.880.160-00,2013-05-12,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00881,Eduardo Lima Almeida,000.881.167-00,2013-03-14,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00882,Mateus Rocha Martins,000.882.174-00,2011-01-29,F,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00883,Sofia Ramos Souza,000.883.181-00,2013-02-23,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00884,Ana Rocha Martins,000.884.188-00,2014-08-20,M,TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,Ativo,2026
+ALU00885,Valentina Moreira Almeida,000.885.195-00,2011-06-30,F,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00886,Thiago Costa Gomes,000.886.202-00,2012-03-14,F,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00887,Julia Costa Silva,000.887.209-00,2014-12-05,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00888,Gabriel Gomes Rocha,000.888.216-00,2013-07-06,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00889,Thiago Dias Silva,000.889.223-00,2013-06-14,F,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00890,Camila Nascimento Barbosa,000.890.230-00,2014-09-12,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00891,Vinicius Nascimento Rocha,000.891.237-00,2013-11-24,F,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00892,Carlos Nascimento Ramos,000.892.244-00,2013-07-01,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00893,Camila Martins Costa,000.893.251-00,2012-11-07,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00894,Isabela Silva Ramos,000.894.258-00,2012-11-08,F,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00895,Fernanda Carvalho Carvalho,000.895.265-00,2012-01-02,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00896,Daniel Martins Dias,000.896.272-00,2012-07-04,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00897,Fernanda Ramos Mendes,000.897.279-00,2014-08-20,F,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00898,Mateus Almeida Barbosa,000.898.286-00,2011-04-04,F,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00899,João Moreira Lima,000.899.293-00,2012-10-06,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00900,Fernanda Silva Martins,000.900.300-00,2011-04-26,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00901,Sofia Lima Santos,000.901.307-00,2011-03-30,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00902,João Almeida Lima,000.902.314-00,2012-02-24,F,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00903,Valentina Silva Oliveira,000.903.321-00,2012-12-05,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00904,Julia Gomes Lima,000.904.328-00,2011-05-28,F,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00905,Beatriz Pereira Lima,000.905.335-00,2014-06-20,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00906,Carlos Almeida Rocha,000.906.342-00,2012-09-05,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00907,Sofia Dias Souza,000.907.349-00,2011-01-05,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00908,Isabela Nascimento Nascimento,000.908.356-00,2011-05-18,M,TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,Ativo,2026
+ALU00909,Isabela Lima Gomes,000.909.363-00,2008-02-08,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00910,Gabriel Carvalho Carvalho,000.910.370-00,2008-11-30,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00911,Bruno Gomes Dias,000.911.377-00,2009-03-21,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00912,Sofia Souza Gomes,000.912.384-00,2008-02-22,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00913,Thiago Costa Costa,000.913.391-00,2008-09-19,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00914,Carlos Martins Santos,000.914.398-00,2010-08-25,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00915,Larissa Lima Santos,000.915.405-00,2009-02-25,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00916,Eduardo Nascimento Nascimento,000.916.412-00,2010-09-06,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00917,Lucas Mendes Almeida,000.917.419-00,2009-09-29,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00918,Daniel Fernandes Carvalho,000.918.426-00,2008-12-26,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00919,Vinicius Souza Lima,000.919.433-00,2010-11-13,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00920,Daniel Fernandes Souza,000.920.440-00,2010-03-13,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00921,Larissa Carvalho Ramos,000.921.447-00,2010-11-29,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00922,Daniel Pereira Lima,000.922.454-00,2008-09-01,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00923,Camila Dias Moreira,000.923.461-00,2010-11-05,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00924,Fernanda Dias Dias,000.924.468-00,2009-04-13,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00925,Fernanda Costa Nascimento,000.925.475-00,2008-02-18,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00926,Daniel Mendes Barbosa,000.926.482-00,2008-06-06,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00927,Eduardo Gomes Ramos,000.927.489-00,2008-01-19,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00928,Julia Pereira Almeida,000.928.496-00,2009-01-09,M,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00929,Julia Pereira Rocha,000.929.503-00,2008-06-06,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00930,Valentina Almeida Pereira,000.930.510-00,2010-10-13,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00931,Valentina Carvalho Santos,000.931.517-00,2009-10-25,F,TURMA041,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU00932,Carlos Barbosa Souza,000.932.524-00,2008-09-28,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00933,Helena Rocha Santos,000.933.531-00,2008-05-30,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00934,Bruno Silva Martins,000.934.538-00,2010-08-22,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00935,Lucas Dias Ramos,000.935.545-00,2008-11-14,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00936,Isabela Barbosa Oliveira,000.936.552-00,2010-01-16,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00937,Miguel Nascimento Carvalho,000.937.559-00,2009-12-08,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00938,Eduardo Fernandes Pereira,000.938.566-00,2008-07-14,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00939,Isabela Santos Santos,000.939.573-00,2008-06-05,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00940,Helena Moreira Rocha,000.940.580-00,2008-03-23,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00941,Fernanda Moreira Ramos,000.941.587-00,2008-11-18,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00942,Helena Dias Rocha,000.942.594-00,2009-12-17,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00943,Carlos Carvalho Santos,000.943.601-00,2009-10-22,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00944,Bruno Mendes Fernandes,000.944.608-00,2010-05-16,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00945,Camila Ramos Costa,000.945.615-00,2009-01-04,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00946,Gabriel Mendes Lima,000.946.622-00,2008-06-30,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00947,Bruno Dias Ramos,000.947.629-00,2008-07-05,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00948,Eduardo Oliveira Nascimento,000.948.636-00,2008-12-06,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00949,Daniel Oliveira Martins,000.949.643-00,2008-02-29,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00950,Camila Almeida Moreira,000.950.650-00,2009-08-09,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00951,Mariana Pereira Silva,000.951.657-00,2009-01-14,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00952,Miguel Silva Souza,000.952.664-00,2010-07-02,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00953,Miguel Carvalho Costa,000.953.671-00,2010-04-24,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00954,Julia Martins Lima,000.954.678-00,2010-08-03,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00955,Mariana Pereira Lima,000.955.685-00,2008-12-17,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00956,Valentina Dias Carvalho,000.956.692-00,2010-03-01,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00957,Rafael Fernandes Souza,000.957.699-00,2010-08-07,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00958,Mariana Souza Carvalho,000.958.706-00,2010-10-31,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00959,João Martins Pereira,000.959.713-00,2008-10-04,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00960,Fernanda Martins Lima,000.960.720-00,2009-04-26,M,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00961,Valentina Santos Mendes,000.961.727-00,2008-03-26,F,TURMA042,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00962,Mariana Ramos Carvalho,000.962.734-00,2010-03-04,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00963,Mariana Fernandes Gomes,000.963.741-00,2010-03-07,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00964,Eduardo Fernandes Mendes,000.964.748-00,2009-03-29,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00965,João Fernandes Nascimento,000.965.755-00,2009-03-26,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00966,Eduardo Oliveira Ramos,000.966.762-00,2010-09-01,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00967,Larissa Nascimento Gomes,000.967.769-00,2009-05-15,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00968,Carlos Costa Martins,000.968.776-00,2010-01-02,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00969,Carlos Costa Pereira,000.969.783-00,2009-01-03,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00970,Bruno Fernandes Rocha,000.970.790-00,2010-09-28,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00971,Vinicius Carvalho Martins,000.971.797-00,2008-02-26,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00972,Mateus Costa Costa,000.972.804-00,2008-06-03,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00973,Daniel Gomes Moreira,000.973.811-00,2008-12-28,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00974,Rafael Barbosa Moreira,000.974.818-00,2008-07-01,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00975,Vinicius Dias Costa,000.975.825-00,2008-11-08,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00976,Lucas Lima Pereira,000.976.832-00,2010-11-25,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00977,Larissa Carvalho Barbosa,000.977.839-00,2010-03-14,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00978,Vinicius Santos Moreira,000.978.846-00,2010-04-29,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00979,João Costa Lima,000.979.853-00,2008-06-09,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00980,Larissa Lima Oliveira,000.980.860-00,2009-10-05,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00981,Bruno Fernandes Almeida,000.981.867-00,2010-02-12,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00982,Thiago Martins Oliveira,000.982.874-00,2009-03-04,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00983,Ana Martins Nascimento,000.983.881-00,2010-02-11,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00984,João Ramos Santos,000.984.888-00,2009-11-10,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00985,Miguel Silva Costa,000.985.895-00,2010-02-26,M,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00986,Julia Almeida Costa,000.986.902-00,2008-10-05,F,TURMA043,EM,Ensino Médio,1ª Série,Manhã,Ativo,2026
+ALU00987,Thiago Carvalho Lima,000.987.909-00,2008-10-08,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00988,Julia Nascimento Santos,000.988.916-00,2009-08-09,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00989,Julia Barbosa Nascimento,000.989.923-00,2010-02-24,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00990,Valentina Fernandes Mendes,000.990.930-00,2008-10-29,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00991,Beatriz Pereira Mendes,000.991.937-00,2009-09-15,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00992,Carlos Carvalho Moreira,000.992.944-00,2009-09-27,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00993,Daniel Ramos Lima,000.993.951-00,2010-03-04,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00994,Daniel Dias Nascimento,000.994.958-00,2010-07-16,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00995,Sofia Rocha Lima,000.995.965-00,2010-08-20,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00996,Carlos Mendes Almeida,000.996.972-00,2010-11-21,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00997,Bruno Fernandes Lima,000.997.979-00,2010-11-10,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00998,Isabela Lima Gomes,000.998.986-00,2008-10-09,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU00999,João Nascimento Gomes,000.999.993-00,2010-10-12,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01000,Eduardo Souza Moreira,000.1000.000-00,2009-12-05,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01001,Miguel Almeida Oliveira,000.1001.007-00,2010-01-14,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01002,Eduardo Fernandes Silva,000.1002.014-00,2008-10-02,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01003,Miguel Carvalho Moreira,000.1003.021-00,2010-01-20,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01004,Beatriz Silva Fernandes,000.1004.028-00,2010-06-26,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01005,Carlos Rocha Mendes,000.1005.035-00,2009-09-17,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01006,Larissa Rocha Nascimento,000.1006.042-00,2009-06-07,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01007,Bruno Ramos Almeida,000.1007.049-00,2010-10-05,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01008,Beatriz Fernandes Santos,000.1008.056-00,2009-04-11,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01009,Gabriel Martins Gomes,000.1009.063-00,2010-11-17,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01010,Fernanda Fernandes Oliveira,000.1010.070-00,2009-04-02,F,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01011,Bruno Silva Mendes,000.1011.077-00,2008-07-06,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01012,Larissa Carvalho Barbosa,000.1012.084-00,2009-12-08,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01013,Julia Nascimento Barbosa,000.1013.091-00,2009-08-06,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01014,Sofia Rocha Rocha,000.1014.098-00,2008-02-22,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01015,Miguel Martins Moreira,000.1015.105-00,2010-01-03,M,TURMA044,EM,Ensino Médio,1ª Série,Tarde,Ativo,2026
+ALU01016,João Lima Oliveira,000.1016.112-00,2010-05-17,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01017,Mariana Fernandes Almeida,000.1017.119-00,2008-07-31,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01018,Camila Silva Barbosa,000.1018.126-00,2010-02-28,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01019,Ana Barbosa Rocha,000.1019.133-00,2010-02-13,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01020,Camila Mendes Costa,000.1020.140-00,2009-08-10,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01021,Vinicius Mendes Fernandes,000.1021.147-00,2009-03-22,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01022,Thiago Nascimento Oliveira,000.1022.154-00,2008-03-18,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01023,Vinicius Rocha Mendes,000.1023.161-00,2009-05-05,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01024,Rafael Santos Oliveira,000.1024.168-00,2010-08-05,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01025,Thiago Nascimento Dias,000.1025.175-00,2009-01-21,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01026,Rafael Carvalho Gomes,000.1026.182-00,2010-07-23,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01027,Julia Dias Pereira,000.1027.189-00,2010-12-23,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01028,Camila Mendes Moreira,000.1028.196-00,2009-03-30,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01029,Sofia Nascimento Moreira,000.1029.203-00,2009-12-02,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01030,Camila Carvalho Oliveira,000.1030.210-00,2010-07-09,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01031,Helena Lima Lima,000.1031.217-00,2009-01-18,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01032,Isabela Almeida Silva,000.1032.224-00,2009-03-17,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01033,Larissa Barbosa Fernandes,000.1033.231-00,2010-12-19,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01034,Miguel Ramos Fernandes,000.1034.238-00,2010-12-24,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01035,Daniel Silva Souza,000.1035.245-00,2009-05-04,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01036,João Dias Ramos,000.1036.252-00,2010-07-06,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01037,Ana Oliveira Carvalho,000.1037.259-00,2010-10-13,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01038,Sofia Rocha Ramos,000.1038.266-00,2009-01-02,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01039,Vinicius Carvalho Pereira,000.1039.273-00,2008-07-27,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01040,Eduardo Nascimento Rocha,000.1040.280-00,2009-11-06,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01041,Bruno Ramos Almeida,000.1041.287-00,2009-08-27,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01042,Ana Fernandes Gomes,000.1042.294-00,2008-03-14,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01043,Lucas Costa Rocha,000.1043.301-00,2009-10-24,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01044,Beatriz Dias Barbosa,000.1044.308-00,2008-02-06,M,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01045,Ana Fernandes Oliveira,000.1045.315-00,2009-03-24,F,TURMA045,EM,Ensino Médio,2ª Série,Manhã,Ativo,2026
+ALU01046,Carlos Pereira Oliveira,000.1046.322-00,2008-06-04,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01047,Vinicius Costa Fernandes,000.1047.329-00,2010-03-13,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01048,Larissa Santos Moreira,000.1048.336-00,2010-09-07,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01049,Julia Souza Mendes,000.1049.343-00,2010-03-23,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01050,Larissa Santos Fernandes,000.1050.350-00,2010-01-24,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01051,Daniel Almeida Silva,000.1051.357-00,2009-11-13,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01052,Bruno Moreira Nascimento,000.1052.364-00,2008-05-04,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01053,Thiago Oliveira Carvalho,000.1053.371-00,2009-10-14,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01054,Beatriz Moreira Nascimento,000.1054.378-00,2009-11-10,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01055,Thiago Souza Moreira,000.1055.385-00,2010-07-29,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01056,Mariana Ramos Fernandes,000.1056.392-00,2008-03-10,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01057,Bruno Pereira Souza,000.1057.399-00,2009-04-02,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01058,Valentina Souza Santos,000.1058.406-00,2009-09-17,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01059,Helena Carvalho Lima,000.1059.413-00,2010-01-05,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01060,Valentina Lima Pereira,000.1060.420-00,2009-03-15,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01061,Lucas Silva Pereira,000.1061.427-00,2010-11-07,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01062,João Rocha Santos,000.1062.434-00,2008-05-27,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01063,Carlos Santos Ramos,000.1063.441-00,2008-01-13,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01064,Gabriel Rocha Fernandes,000.1064.448-00,2008-12-28,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01065,Camila Oliveira Dias,000.1065.455-00,2009-09-22,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01066,Sofia Martins Silva,000.1066.462-00,2009-07-05,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01067,Mariana Carvalho Dias,000.1067.469-00,2008-01-09,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01068,Thiago Pereira Lima,000.1068.476-00,2010-08-04,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01069,Thiago Mendes Moreira,000.1069.483-00,2008-01-23,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01070,Miguel Fernandes Mendes,000.1070.490-00,2008-06-30,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01071,Helena Nascimento Ramos,000.1071.497-00,2009-04-06,F,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01072,Camila Dias Rocha,000.1072.504-00,2010-06-20,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01073,Mariana Moreira Souza,000.1073.511-00,2010-10-23,M,TURMA046,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01074,Miguel Martins Almeida,000.1074.518-00,2010-06-05,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01075,Fernanda Costa Souza,000.1075.525-00,2010-12-27,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01076,Helena Ramos Souza,000.1076.532-00,2008-01-26,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01077,Eduardo Nascimento Costa,000.1077.539-00,2010-04-15,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01078,Larissa Pereira Silva,000.1078.546-00,2008-04-26,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01079,Isabela Ramos Carvalho,000.1079.553-00,2008-04-30,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01080,Sofia Nascimento Pereira,000.1080.560-00,2008-09-19,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01081,Carlos Gomes Mendes,000.1081.567-00,2008-04-25,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01082,Mariana Fernandes Souza,000.1082.574-00,2010-12-28,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01083,Fernanda Barbosa Lima,000.1083.581-00,2010-03-23,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01084,Helena Carvalho Ramos,000.1084.588-00,2008-04-26,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01085,Carlos Nascimento Mendes,000.1085.595-00,2009-12-21,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01086,Beatriz Moreira Moreira,000.1086.602-00,2009-01-26,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01087,Daniel Mendes Souza,000.1087.609-00,2009-09-28,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01088,Vinicius Pereira Silva,000.1088.616-00,2009-03-27,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01089,Julia Souza Nascimento,000.1089.623-00,2010-12-02,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01090,Rafael Silva Almeida,000.1090.630-00,2010-01-14,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01091,Beatriz Costa Martins,000.1091.637-00,2010-06-29,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01092,Valentina Mendes Mendes,000.1092.644-00,2009-12-14,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01093,Bruno Pereira Souza,000.1093.651-00,2010-10-27,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01094,Rafael Mendes Silva,000.1094.658-00,2008-08-07,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01095,Isabela Barbosa Souza,000.1095.665-00,2010-08-03,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01096,Thiago Carvalho Costa,000.1096.672-00,2008-03-04,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01097,Rafael Mendes Mendes,000.1097.679-00,2008-08-26,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01098,Vinicius Moreira Gomes,000.1098.686-00,2010-11-25,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01099,Gabriel Santos Gomes,000.1099.693-00,2010-01-13,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01100,Thiago Gomes Costa,000.1100.700-00,2009-12-27,F,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01101,Eduardo Dias Mendes,000.1101.707-00,2010-01-05,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01102,Lucas Fernandes Barbosa,000.1102.714-00,2008-12-08,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01103,Julia Nascimento Oliveira,000.1103.721-00,2009-09-01,M,TURMA047,EM,Ensino Médio,3ª Série,Tarde,Ativo,2026
+ALU01104,Bruno Mendes Carvalho,000.1104.728-00,2010-04-25,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01105,Valentina Gomes Nascimento,000.1105.735-00,2008-04-05,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01106,Gabriel Martins Rocha,000.1106.742-00,2010-12-21,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01107,Bruno Ramos Ramos,000.1107.749-00,2010-01-16,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01108,Fernanda Almeida Pereira,000.1108.756-00,2010-04-04,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01109,Helena Nascimento Lima,000.1109.763-00,2009-01-14,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01110,Larissa Almeida Rocha,000.1110.770-00,2009-10-17,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01111,Eduardo Costa Dias,000.1111.777-00,2009-05-24,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01112,Larissa Mendes Gomes,000.1112.784-00,2008-09-26,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01113,Larissa Oliveira Silva,000.1113.791-00,2008-10-15,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01114,Helena Ramos Fernandes,000.1114.798-00,2008-04-05,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01115,Bruno Gomes Pereira,000.1115.805-00,2008-10-17,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01116,Lucas Lima Fernandes,000.1116.812-00,2009-06-06,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01117,Ana Carvalho Fernandes,000.1117.819-00,2009-04-07,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01118,Valentina Santos Barbosa,000.1118.826-00,2009-07-13,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01119,Lucas Santos Mendes,000.1119.833-00,2009-06-01,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01120,João Dias Souza,000.1120.840-00,2009-07-05,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01121,Lucas Carvalho Santos,000.1121.847-00,2008-01-27,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01122,Isabela Santos Mendes,000.1122.854-00,2009-11-13,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01123,Valentina Barbosa Oliveira,000.1123.861-00,2010-01-05,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01124,Camila Lima Martins,000.1124.868-00,2008-02-14,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01125,Julia Carvalho Gomes,000.1125.875-00,2009-06-07,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01126,Carlos Carvalho Souza,000.1126.882-00,2008-04-03,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01127,Thiago Fernandes Ramos,000.1127.889-00,2008-08-10,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01128,Daniel Santos Costa,000.1128.896-00,2008-10-12,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01129,Helena Moreira Silva,000.1129.903-00,2010-08-28,F,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01130,Julia Souza Souza,000.1130.910-00,2010-10-20,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026
+ALU01131,Fernanda Pereira Lima,000.1131.917-00,2010-08-21,M,TURMA048,EM,Ensino Médio,2ª Série,Tarde,Ativo,2026

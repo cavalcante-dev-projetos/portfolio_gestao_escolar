@@ -1,0 +1,49 @@
+﻿id_turma,codigo_segmento,segmento,serie,turno,capacidade,id_professor,ano_letivo,status
+TURMA001,EI,Educação Infantil,Infantil 3,Manhã,25,PROF0092,2026,Ativa
+TURMA002,EI,Educação Infantil,Infantil 1,Tarde,25,PROF0044,2026,Ativa
+TURMA003,EI,Educação Infantil,Infantil 3,Tarde,25,PROF0080,2026,Ativa
+TURMA004,EI,Educação Infantil,Infantil 1,Manhã,25,PROF0005,2026,Ativa
+TURMA005,EI,Educação Infantil,Infantil 1,Tarde,25,PROF0062,2026,Ativa
+TURMA006,EI,Educação Infantil,Infantil 3,Manhã,25,PROF0080,2026,Ativa
+TURMA007,EI,Educação Infantil,Infantil 3,Manhã,25,PROF0022,2026,Ativa
+TURMA008,EI,Educação Infantil,Infantil 1,Manhã,25,PROF0102,2026,Ativa
+TURMA009,EI,Educação Infantil,Infantil 1,Tarde,25,PROF0062,2026,Ativa
+TURMA010,EI,Educação Infantil,Infantil 2,Manhã,25,PROF0080,2026,Ativa
+TURMA011,EI,Educação Infantil,Infantil 1,Manhã,25,PROF0056,2026,Ativa
+TURMA012,EI,Educação Infantil,Infantil 1,Manhã,25,PROF0105,2026,Ativa
+TURMA013,FI,Ensino Fundamental I,5º Ano,Manhã,28,PROF0110,2026,Ativa
+TURMA014,FI,Ensino Fundamental I,2º Ano,Tarde,28,PROF0047,2026,Ativa
+TURMA015,FI,Ensino Fundamental I,4º Ano,Manhã,28,PROF0043,2026,Ativa
+TURMA016,FI,Ensino Fundamental I,1º Ano,Tarde,28,PROF0034,2026,Ativa
+TURMA017,FI,Ensino Fundamental I,4º Ano,Tarde,28,PROF0119,2026,Ativa
+TURMA018,FI,Ensino Fundamental I,5º Ano,Tarde,28,PROF0112,2026,Ativa
+TURMA019,FI,Ensino Fundamental I,3º Ano,Manhã,28,PROF0119,2026,Ativa
+TURMA020,FI,Ensino Fundamental I,5º Ano,Manhã,28,PROF0117,2026,Ativa
+TURMA021,FI,Ensino Fundamental I,3º Ano,Manhã,28,PROF0042,2026,Ativa
+TURMA022,FI,Ensino Fundamental I,4º Ano,Manhã,28,PROF0070,2026,Ativa
+TURMA023,FI,Ensino Fundamental I,5º Ano,Manhã,28,PROF0070,2026,Ativa
+TURMA024,FI,Ensino Fundamental I,5º Ano,Manhã,28,PROF0004,2026,Ativa
+TURMA025,FI,Ensino Fundamental I,3º Ano,Manhã,28,PROF0100,2026,Ativa
+TURMA026,FI,Ensino Fundamental I,5º Ano,Manhã,28,PROF0066,2026,Ativa
+TURMA027,FI,Ensino Fundamental I,4º Ano,Manhã,28,PROF0116,2026,Ativa
+TURMA028,FI,Ensino Fundamental I,5º Ano,Tarde,28,PROF0042,2026,Ativa
+TURMA029,FII,Ensino Fundamental II,6º Ano,Manhã,30,PROF0003,2026,Ativa
+TURMA030,FII,Ensino Fundamental II,8º Ano,Manhã,30,PROF0089,2026,Ativa
+TURMA031,FII,Ensino Fundamental II,8º Ano,Manhã,30,PROF0091,2026,Ativa
+TURMA032,FII,Ensino Fundamental II,8º Ano,Manhã,30,PROF0086,2026,Ativa
+TURMA033,FII,Ensino Fundamental II,6º Ano,Tarde,30,PROF0038,2026,Ativa
+TURMA034,FII,Ensino Fundamental II,6º Ano,Manhã,30,PROF0073,2026,Ativa
+TURMA035,FII,Ensino Fundamental II,9º Ano,Manhã,30,PROF0086,2026,Ativa
+TURMA036,FII,Ensino Fundamental II,8º Ano,Tarde,30,PROF0091,2026,Ativa
+TURMA037,FII,Ensino Fundamental II,8º Ano,Tarde,30,PROF0091,2026,Ativa
+TURMA038,FII,Ensino Fundamental II,9º Ano,Tarde,30,PROF0063,2026,Ativa
+TURMA039,FII,Ensino Fundamental II,8º Ano,Manhã,30,PROF0029,2026,Ativa
+TURMA040,FII,Ensino Fundamental II,6º Ano,Manhã,30,PROF0051,2026,Ativa
+TURMA041,EM,Ensino Médio,3ª Série,Tarde,32,PROF0065,2026,Ativa
+TURMA042,EM,Ensino Médio,1ª Série,Tarde,32,PROF0020,2026,Ativa
+TURMA043,EM,Ensino Médio,1ª Série,Manhã,32,PROF0064,2026,Ativa
+TURMA044,EM,Ensino Médio,1ª Série,Tarde,32,PROF0093,2026,Ativa
+TURMA045,EM,Ensino Médio,2ª Série,Manhã,32,PROF0111,2026,Ativa
+TURMA046,EM,Ensino Médio,3ª Série,Tarde,32,PROF0093,2026,Ativa
+TURMA047,EM,Ensino Médio,3ª Série,Tarde,32,PROF0032,2026,Ativa
+TURMA048,EM,Ensino Médio,2ª Série,Tarde,32,PROF0031,2026,Ativa

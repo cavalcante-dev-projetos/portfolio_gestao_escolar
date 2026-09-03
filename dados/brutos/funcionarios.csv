@@ -1,0 +1,36 @@
+﻿id_funcionario,nome,cargo,departamento,tipo_contrato,status
+FUNC0001,Mateus Nascimento Silva,Secretaria,Operacional,PJ,Ativo
+FUNC0002,Camila Moreira Dias,Coordenação,Operacional,CLT,Ativo
+FUNC0003,Beatriz Costa Nascimento,Tecnologia,Acadêmico,CLT,Ativo
+FUNC0004,Daniel Santos Gomes,Secretaria,Operacional,PJ,Ativo
+FUNC0005,Eduardo Fernandes Lima,Recursos Humanos,Operacional,CLT,Ativo
+FUNC0006,João Fernandes Silva,Manutenção,Operacional,PJ,Ativo
+FUNC0007,João Gomes Mendes,Direção,Operacional,CLT,Ativo
+FUNC0008,Eduardo Gomes Costa,Secretaria,Acadêmico,CLT,Ativo
+FUNC0009,Carlos Fernandes Gomes,Manutenção,Financeiro,PJ,Ativo
+FUNC0010,Ana Silva Dias,Tecnologia,Acadêmico,CLT,Ativo
+FUNC0011,Julia Almeida Rocha,Direção,Acadêmico,CLT,Ativo
+FUNC0012,Mariana Dias Costa,Financeiro,Financeiro,CLT,Ativo
+FUNC0013,Lucas Oliveira Souza,Coordenação,Acadêmico,CLT,Ativo
+FUNC0014,Valentina Carvalho Ramos,Direção,Acadêmico,CLT,Ativo
+FUNC0015,Gabriel Mendes Barbosa,Secretaria,Administrativo,CLT,Ativo
+FUNC0016,Mateus Ramos Souza,Secretaria,Operacional,PJ,Ativo
+FUNC0017,Sofia Rocha Silva,Coordenação,Financeiro,CLT,Ativo
+FUNC0018,Camila Almeida Costa,Manutenção,Administrativo,CLT,Ativo
+FUNC0019,Miguel Martins Almeida,Coordenação,Administrativo,CLT,Ativo
+FUNC0020,Isabela Dias Mendes,Direção,Financeiro,CLT,Ativo
+FUNC0021,Vinicius Ramos Lima,Manutenção,Financeiro,CLT,Ativo
+FUNC0022,Larissa Barbosa Rocha,Recursos Humanos,Financeiro,PJ,Ativo
+FUNC0023,Eduardo Costa Souza,Direção,Operacional,PJ,Ativo
+FUNC0024,Mateus Almeida Rocha,Recursos Humanos,Operacional,CLT,Ativo
+FUNC0025,Mateus Ramos Dias,Tecnologia,Financeiro,CLT,Ativo
+FUNC0026,Gabriel Pereira Souza,Coordenação,Acadêmico,CLT,Ativo
+FUNC0027,Mateus Costa Souza,Recepção,Financeiro,CLT,Ativo
+FUNC0028,Miguel Fernandes Ramos,Manutenção,Administrativo,CLT,Ativo
+FUNC0029,Larissa Oliveira Almeida,Recursos Humanos,Financeiro,CLT,Ativo
+FUNC0030,Gabriel Fernandes Santos,Tecnologia,Acadêmico,CLT,Ativo
+FUNC0031,Gabriel Fernandes Barbosa,Recursos Humanos,Administrativo,PJ,Ativo
+FUNC0032,Miguel Barbosa Nascimento,Direção,Administrativo,CLT,Ativo
+FUNC0033,Thiago Rocha Barbosa,Tecnologia,Administrativo,CLT,Ativo
+FUNC0034,Thiago Carvalho Martins,Recursos Humanos,Administrativo,CLT,Ativo
+FUNC0035,Sofia Barbosa Rocha,Tecnologia,Administrativo,CLT,Ativo
